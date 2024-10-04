@@ -1,0 +1,547 @@
+audio_datasets/chunk_3/103/1.wav|vˌaː2 mˈo6t0 tˈiɛɜt0 bˌi6 hˈyəɜ hˈɛ6n tˈaj ɗˈo4j tˈeɜ zˈəːɜj . |103
+audio_datasets/chunk_3/103/5.wav|tʃˈɔŋ kˈə1w tʃwˈiɛ6n ˌɛməː2ˌəɜˈu bˈə6ɲ . |103
+audio_datasets/chunk_3/103/6.wav|ˈaːɜw t0ˈyə4ŋ , tˈaːm vˈɔ6ŋ . |103
+audio_datasets/chunk_3/103/7.wav|bˈiɜ mˈə6t0 vˌaː2 sˈy6 zˈoɜj tʃˈaːɜ tʃˈɔŋ vˈu6 lˈyə2 ɗˈaː4w lˈəːɜn ɲˈəɜt0 . |103
+audio_datasets/chunk_3/103/10.wav|kˌuə4 tˈiɛɜt0 bˌi6 fˈən t0ˈiɜc mˈaɜw mˈaːŋ t0ˈiɜɲ kˈe-ɜc mˈaː6ŋ . |103
+audio_datasets/chunk_3/103/11.wav|mˌaː2 ɪlˈɪzəbəθ hˈəʊmz vˌaː2 kˈoŋ t0ˈi xˈəː4j ŋˈiɛ6p . |103
+audio_datasets/chunk_3/103/12.wav|θiəɹˈɑːnəʊz kˌuə4 kˈo t0ˈaː6ŋ zˈaː . |103
+audio_datasets/chunk_3/103/13.wav|hˈɔ6 ɗˈe2w tʃˌɔ zˈa2ŋ , ɗˈɔɜ lˌaː2 t0ˈəɜm vˈɛɜ sˌɛ5 ɗˈyə hˈɔ6 ɗˌeɜn . |103
+audio_datasets/chunk_3/103/18.wav|mˈə5w bˈi2ɲ . |103
+audio_datasets/chunk_3/103/19.wav|ˈaːɜw t0ˈyə2ŋ , tˈaːm vˈɔ6ŋ . |103
+audio_datasets/chunk_3/103/20.wav|bˈiɜ mˈə6t0 vˌaː2 sˈy6 zˈoɜj tʃˈaːɜ tʃˈɔŋ vˈu6 lˈyə2 ɗˈaː4w lˈəːɜn ɲˈəɜt0 . |103
+audio_datasets/chunk_3/103/22.wav|nˈo6j zˈuŋ tˈyɜ ɲˈəɜt0 . |103
+audio_datasets/chunk_3/103/24.wav|kˈo mˈəɪɜ kˌuə4 ɪlˈɪzəbəθ hˈəʊmz . |103
+audio_datasets/chunk_3/103/25.wav|kˈɔɜ t0ˈen ɣˈɔ6j lˌaː2 ɪdˈɪʃən . |103
+audio_datasets/chunk_3/103/26.wav|mˈa6c zˌu2 ɲˈɔɜm kˈi5 sˈy ðəɹˈɑːnəʊz ɗˌaː5 lˈaː2m vˈiɛ6c mˈiɛ6t0 . |103
+audio_datasets/chunk_3/103/27.wav|ɲˌyŋ kˈo5 mˈaɜj vˌə5n xˌoŋ tˈy6c hˈiɛ6n ɗˌyə6c . |103
+audio_datasets/chunk_3/103/30.wav|mˈo6t0 vˈaː2j bˈe6ɲ lˈiɜ kˈəː bˈaː4n . |103
+audio_datasets/chunk_3/103/31.wav|kˈu2ŋ vˌəːɜj mˈo6t0 sˈoɜ lˈyə6ŋ tʃˈyɜc nˈaŋ ˈiɜt0 ˈɔ4j ɗˈɔɜ . |103
+audio_datasets/chunk_3/103/33.wav|ɲˌyŋ ɪlˈɪzəbəθ hˈɔhmaːnn |103
+audio_datasets/chunk_3/103/34.wav|xˌoŋ bˈə6n t0ˈəm ɗˌeɜn ɲˌy5ŋ vˈəɜn ɗˈe2 nˈa2j . |103
+audio_datasets/chunk_3/103/36.wav|kˈɔɜ t0ˈə2m ˈe-4ɲ hˈyə4ŋ ˈəː4 tˈuŋ lˈu5ŋ sˈɪlɪkən . |103
+audio_datasets/chunk_3/103/40.wav|sˈɔ vˌəːɜj bˈi2ɲ tˈyə2ŋ xˌi nˈɔɜj tʃwˈiɛ6n tʃˈyəɜc ɗˈaːɜm ɗˈoŋ . |103
+audio_datasets/chunk_3/103/42.wav|ŋˈiɛm t0ˈuɜc tʃˈɔŋ lˈi5ɲ vˈy6c mˌaː2 nˈaːm zˈəːɜj tʃˈi2m ˈiw tˈeɜ . |103
+audio_datasets/chunk_3/103/44.wav|xˈiɛɜn kˌaːɜc ɲˈaː2 ɗˈə2w t0ˈy bˈaɜt0 ɗˈə2w tʃˈuɜ ˈiɜ . |103
+audio_datasets/chunk_3/103/45.wav|ɪlˈɪzəbəθ hˈəʊmz twˈiɛɜt0 fˈu6c kˌaːɜc ɲˈaː2 ɗˈə2w t0ˈy t0ˈin zˈa2ŋ |103
+audio_datasets/chunk_3/103/46.wav|tɛɹˈɑːnəʊz sˈɛɜ lˈaː mˈu2t0 fˈaːɜt0 . |103
+audio_datasets/chunk_3/103/47.wav|fˈaːɜt0 mˈiɲ lˈəːɜn ɗˈɛm lˈaː6j ɲˈiɛ2w lˈəː6j ɲwˈə6n tʃˌɔ hˈɔ6 tʃˈɔŋ lˈi5ɲ vˈy6c kˈoŋ ŋˈe6 . |103
+audio_datasets/chunk_3/103/48.wav|ɗˈoɜj vˌəːɜj kˌaːɜc ɲˈaː2 ɗˈə2w t0ˈy . |103
+audio_datasets/chunk_3/103/52.wav|ɲˌy5ŋ lˈəː2j kwˈaː4ŋ kˈaːɜw fˈɔɜŋ ɗˈaː6j vˈe2 kˈo mˈəɪɜ |103
+audio_datasets/chunk_3/103/56.wav|sˈeɪfweɪ tʃˈi4 bˈaː tʃˈam nˈam mˈyəj tʃˈiɛ6w ɗˈo lˈaː . |103
+audio_datasets/chunk_3/103/58.wav|ŋˈɛ sˈaw ɗˈɔɜ tˈəɪɜ mˈu2j lˈəː2j ɲwˈə6n . |103
+audio_datasets/chunk_3/103/60.wav|tʃˌa4ŋ mˈəɪɜ tʃˈoɜk , ðəɹˈɑːnəʊz ɗˌaː5 ɗˌyə6c ɗˈi6ɲ zˈaːɜ . |103
+audio_datasets/chunk_3/103/62.wav|nˈo6j zˈuŋ tˈyɜ hˈaːj sˈy6 lˈyə2 zˈoɜj ɗˌyə6c |103
+audio_datasets/chunk_3/103/64.wav|tʃˈi6w ɲˈiɛ2w ˈaːɜp lˈy6c vˈe2 vˈiɛ6c fˌaː4j ɗˈyə kˈo5 mˈaɜj . |103
+audio_datasets/chunk_3/103/67.wav|vˌaː2 tˈəː2j zˈaːn tʃˌɔ vˈiɛ6c ŋˈiɛn kˈiɜw , fˈaːɜt0 tʃˈiɛ4n sˈaː4n fˈə4m . |103
+audio_datasets/chunk_3/103/68.wav|zˈaːɜn tʃˌɔ hˈɔ6 zˈe-2ɲ ɲˈiɛ2w tˈəː2j zˈaːn . |103
+audio_datasets/chunk_3/103/69.wav|tʃˌɔ vˈiɛ6c hwˈaː2n tˈiɛ6n nˈɔɜ . |103
+audio_datasets/chunk_3/103/70.wav|bˈiɛɜt0 ɗˈə1w mˌɔ6j tˈyɜ ɗˌaː5 xˈaːɜc . |103
+audio_datasets/chunk_3/103/72.wav|vˌaː2 ɗˈyə zˈaː ɲˌy5ŋ ɲˈə6n ɗˈi6ɲ xˌoŋ t0ˈyə4ŋ zˈa2ŋ . |103
+audio_datasets/chunk_3/103/74.wav|tʃˈi4 vˌəːɜj mˈo6t0 zˈɔ6t0 mˈaɜw . |103
+audio_datasets/chunk_3/103/75.wav|kˈo kˈu5ŋ xˈa4ŋ ɗˈi6ɲ kˈeɜt0 kwˈaː4 . |103
+audio_datasets/chunk_3/103/77.wav|vˌaː2 ɗˌyə6c sˈaːɜc ɲˈə6n bˌəː4j kˈu6c kwˈaː4n lˈiɜ tˈy6c fˈɔ2ŋ . |103
+audio_datasets/chunk_3/103/80.wav|vˌi2 mˈu6c ɗˈiɜc tˈyəŋ mˈaː6j . |103
+audio_datasets/chunk_3/103/81.wav|sˈɛɜt0 ŋˈiɛ6m zwˈi ɲˈəɜt0 mˌaː2 tʃˈiɛɜc mˈaɜj nˈa2j kˈɔɜ tˈe4 tˈy6c hˈiɛ6n . |103
+audio_datasets/chunk_3/103/85.wav|vˌaː2 hwˈaːɜ hˈɔ6k nˈɔɜj tʃˈuŋ . |103
+audio_datasets/chunk_3/103/88.wav|t0ˌəːɜj sˈɛɜt0 ŋˈiɛ6m mˈaɜw zˈa2ŋ t0ˈi2ɲ tʃˈaː6ŋ kˈu6 tˈe4 kˌuə4 hˈɔ6 . |103
+audio_datasets/chunk_3/103/89.wav|ɗˈɔ2j hˈɔ4j kˈə2n fˌaː4j lˈəɪɜ mˈaɜw tˈɛw fˈyəŋ fˈaːɜp tʃwˈiɛ2n tˈoɜŋ . |103
+audio_datasets/chunk_3/103/91.wav|sˈaw ɗˈɔɜ , ðəɹˈɑːnəʊz |103
+audio_datasets/chunk_3/103/92.wav|tʃwˈiɛ4n ɲˈe-ɲ kˌaːɜc mˈə5w mˈaɜw . |103
+audio_datasets/chunk_3/103/93.wav|mˈo6t0 fˈɔ2ŋ tˈiɜ ŋˈiɛ6m ˈəː4 pˈɑːləʊ ˈaltəʊ . |103
+audio_datasets/chunk_3/103/95.wav|hˈɔ6 lˈaː2m ɲˌy tˈeɜ ɗˌaːŋ tˈy6c hˈiɛ6n t0ˈoɜt0 ɲˌy5ŋ t0wˈiɛn bˈoɜ . |103
+audio_datasets/chunk_3/103/96.wav|ɲˌyŋ tˈy6c tʃˈəɜt0 , t0ˈəɜt0 kˈaː4 tʃˈi4 lˌaː2 mˈo6t0 sˈy6 zˈaː4 zˈoɜj . |103
+audio_datasets/chunk_3/103/98.wav|nˈo6j zˈuŋ tˈyɜ bˈaː |103
+audio_datasets/chunk_3/103/99.wav|tʃˈiɛw tʃˈɔ2 ŋwˈaː6n mˈu6c ðəɹˈɑːnəʊz sˈy4 zˈu6ŋ ɗˌe4 lˈec kwˈaː kˌaːɜc kwˈiɛ2n . |103
+audio_datasets/chunk_3/103/102.wav|t0ˈiɛɜn hˈe-2ɲ fˈi vˈu6 sˈiɛw lˈyə4 ɗˈaː4w tʃˈɔŋ mˈo6t0 lˈi5ɲ vˈy6c . |103
+audio_datasets/chunk_3/103/103.wav|ɗˌyə6c kwˈaː4n lˈiɜ vˈo kˈu2ŋ tʃˈa6t0 tʃˈɛ5 . |103
+audio_datasets/chunk_3/103/106.wav|vˌaː2 zˈyə6c fˈɔ2ŋ hwˈaː kˈi2 ˌɛɜpdˌeˈaː ˈəː4 ɗˈəɪ lˌaː2 zˈi2 ? |103
+audio_datasets/chunk_3/103/108.wav|vˌaː2 zˈən tʃˈuɜŋ lˌaː2 mˈo6t0 tʃwˈiɛ6n . |103
+audio_datasets/chunk_3/103/109.wav|ɲˌyŋ ɗˌe4 kwˈaː mˈaɜt0 ˌɛɜpdˌeˈaː tˌi2 kˈə2n fˌaː4j kˈɔɜ sˈaː4w twˈə6t0 . |103
+audio_datasets/chunk_3/103/110.wav|vˌaː2 ðəɹˈɑːnəʊz ɗˌaː5 lˈaː2m ɗˌyə6c ɗˈiɛ2w ɗˈɔɜ . |103
+audio_datasets/chunk_3/103/111.wav|ˈiɜt0 ɲˈəɜt0 lˌaː2 tʃˈɔŋ mˈo6t0 xwˌaː4ŋ tˈəː2j zˈaːn . |103
+audio_datasets/chunk_3/103/112.wav|hˈɔ6 bˈaːw bˈiɛ6n zˈa2ŋ mˈaɜj ˈɛdɪsən xˌoŋ fˌaː4j mˈo6t0 . |103
+audio_datasets/chunk_3/103/113.wav|tˈiɛɜt0 bˌi6 ˈi t0ˈeɜ . |103
+audio_datasets/chunk_3/103/114.wav|vˌi2 hˈɔ6 ɣˈy4j kˌaːɜc kˈeɜt0 kwˈaː4 ɗˌeɜn fˈɔ2ŋ tˈiɜ ŋˈiɛ6m . |103
+audio_datasets/chunk_3/103/116.wav|nˌen hˈɔ6 nˈɔɜj ˈɛdɪsən . |103
+audio_datasets/chunk_3/103/117.wav|tʃˈi4 lˌaː2 mˈo6t0 tˈiɛɜt0 bˌi6 tʃwˈiɛ2n tˈoŋ t0ˈin . |103
+audio_datasets/chunk_3/103/119.wav|ɪdˈɪʃən xˌoŋ fˌaː4j t0wˈən tˈɛw kwˈi ɗˈi6ɲ kˌuə4 ˌɛɜpdˌeˈaː . |103
+audio_datasets/chunk_3/103/120.wav|sˈy6 mˈə6p mˈəː2 nˈa2j kˈɛɜw zˈaː2j mˈo6t0 tˈəː2j zˈaːn . |103
+audio_datasets/chunk_3/103/121.wav|tʃˌɔ ɗˌeɜn xˌi t0ˈiɜn sˈiɜ ʃˈəʊ mˈɑːkə . |103
+audio_datasets/chunk_3/103/122.wav|mˈo6t0 tʃˈuŋ t0ˈaː2 kwˈən ɗˈo6j ˈiɛw kˈə2w ˈɛdɪsən fˌaː4j ɗˌyə6c . |103
+audio_datasets/chunk_3/103/123.wav|ˌɛɜpdˌeˈaː fˈe zwˈiɛ6t0 tˌi2 ˈoŋ mˈəːɜj tʃˌɔ fˈɛɜp sˈy4 zˈu6ŋ t0ˈaː6j . |103
+audio_datasets/chunk_3/103/127.wav|tˈɛɹənˌəʊz ɗˈo2ŋ ˈiɜ lˈəɪɜ tʃˈyɜŋ ɲˈə6n kˌuə4 ˌɛɜpdˌeˈaː . |103
+audio_datasets/chunk_3/103/128.wav|tˈɛw ˈiɛw kˈə2w kˌuə4 ʃˈuːmɑːkə . |103
+audio_datasets/chunk_3/103/130.wav|tʃˌɔ ɗˌeɜn xˌi t0ˈi2ɲ sˈy6 ˈiɜ sˈo mˈaɜc hˈəː6p vˈe2 hˈi5w . |103
+audio_datasets/chunk_3/103/133.wav|vˌaː2 ɲˌy5ŋ kˈeɜt0 kwˈaː4 t0ˈoɜt0 tʃˌɔ mˈo6t0 sˈoɜ fˈən t0ˈiɜc . |103
+audio_datasets/chunk_3/103/134.wav|vˈe2 bˈe6ɲ lˈiɛn kwˈaːn t0ˌəːɜj vˈaɪɹəs hˈɜːpiːz . |103
+audio_datasets/chunk_3/103/136.wav|ɗˌaː5 ɗˌyə6c ˌɛɜpdˌeˈaː kˈəɜp fˈɛɜp tʃˌɔ ɲˌy5ŋ sˈɛɜt0 ŋˈiɛ6m nˈa2j . |103
+audio_datasets/chunk_3/103/141.wav|vˌaː2 zˈaːɜ tʃˈi6 tˈaː4j sˈaː4n zˈo2ŋ ˈyəɜc t0ˈiɜɲ kˌuə4 hˈəʊmɪst . |103
+audio_datasets/chunk_3/103/143.wav|bˈaː6n vˈyə2 ŋˈɛ sˈɔŋ t0ˈəːɜm t0ˈaɜt0 sˈe-ɜc . |103
+audio_datasets/chunk_3/103/144.wav|mˈaɜw bˈə2n , ˈaː4w t0ˈyə2ŋ , tˈaːm vˈɔ6ŋ . |103
+audio_datasets/chunk_3/103/146.wav|sˈɪlɪkən kwˈiːn . |103
+audio_datasets/chunk_3/103/147.wav|ɗˌaː5 kˈe4 lˈaː6j kˈə1w tʃwˈiɛ6n kˈi6c t0ˈiɜɲ kˌuə4 ɪlˈɪzəbəθ . |103
+audio_datasets/chunk_3/103/148.wav|vˌəːɜj ɲˌy5ŋ mˈe-4ɲ lˈyəɜj . |103
+audio_datasets/chunk_3/103/149.wav|vˌaː2 sˈy6 zˈoɜj tʃˈaːɜ . |103
+audio_datasets/chunk_3/103/150.wav|kˈo t0ˈaː kˈɔɜ xˈaː4 nˈaŋ hwˈiɛ5n hwˈaː6c ŋˈyə2j xˈaːɜc . |103
+audio_datasets/chunk_3/103/151.wav|kˈə1w tʃwˈiɛ6n kˌuə4 ɪlˈɪzəbəθ hˈəʊmz |103
+audio_datasets/chunk_3/103/152.wav|hˈəɜp zˈə5n ɗˌeɜn nˈo5j hˌaɜtbˌeˈɔ ɗˌaː5 |103
+audio_datasets/chunk_3/103/153.wav|sˈaː4n swˈəɜt0 bˈo6 fˈim t0ˈaː2j lˈiɛ6w kˈɔɜ t0ˈen . |103
+audio_datasets/chunk_3/104/0.wav|ɗˌe4 hˈi2ɲ zˈuŋ ɗˌyə6c kˈeɜ hwˈe-6c bˈiɛn zˈo2 nˈa2j kˌuə4 mˈi2ɲ sˌɛ5 ɗˈi ɗˌeɜn ɗˈə1w . |104
+audio_datasets/chunk_3/104/4.wav|ŋˈyə2j zˈa2w tˈyɜ mˈyə2j lˈam tʃˈen hˈe-2ɲ t0ˈiɲ . |104
+audio_datasets/chunk_3/104/5.wav|t0wˈi ɲˈiɛn , zˈɔ t0ˈaː2j tʃˈyəɜc tˈaː4j ɗwˈaː2n , |104
+audio_datasets/chunk_3/104/6.wav|nˈəːj ɗˈiɛ4m ɣˈaː5 ŋˈiɛ6n zˈa2j ɗˌyə6c fˈaːɜt0 hˈe-2ɲ . |104
+audio_datasets/chunk_3/104/8.wav|kˈɔɜ zˈəɜt0 ɲˈiɛ2w kwˈiɛɜt0 ɗˈi6ɲ bˈaːn ɗˈə2w . |104
+audio_datasets/chunk_3/104/9.wav|vˌaː2 kˈə1w tʃwˈiɛ6n ɗˈe2 t0ˈy kˌuə4 nˈaɪt . |104
+audio_datasets/chunk_3/104/11.wav|zˈəɜt0 hˈiɛɜm xˌi mˈo6t0 ŋˈyə2j t0ˈə2m kˈəː5 ɲˌy nˈaɪt . |104
+audio_datasets/chunk_3/104/13.wav|tʃˈi4 t0ˌəːɜj xˌi t0ˈy2ŋ bˈyəɜc . |104
+audio_datasets/chunk_3/104/15.wav|ɗˌe4 kˈɔɜ tˈe4 tʃˈiɜɲ tˈyɜc ŋˈi4 hˈiw vˈaː2w tˈaːɜŋ sˈaɜw . |104
+audio_datasets/chunk_3/104/16.wav|nˈam hˈaːj ŋˈi2n mˈyə2j sˈaɜw . |104
+audio_datasets/chunk_3/104/18.wav|vˌaː2 ɣˈaː5 ŋˈiɛ6n zˈa2j . |104
+audio_datasets/chunk_3/104/19.wav|ɗˌaː5 ɗˌyə6c fˈaːɜt0 hˈe-2ɲ vˈaː2w tˈaːɜŋ t0ˈy nˈam hˈaːj ŋˈi2n mˈyə2j sˈaɜw . |104
+audio_datasets/chunk_3/104/21.wav|tʃˈɔŋ kˈuəɜn sˈe-ɜc ɣˈaː5 ŋwˈiɛ6n zˈa2j . |104
+audio_datasets/chunk_3/104/22.wav|nˈo6j zˈuŋ tˈyɜ ɲˈəɜt0 . |104
+audio_datasets/chunk_3/104/23.wav|bˈaː6n tʃˈi4 kˈɔɜ mˈo6t0 vˈaː2j kˈəː hˈo6j . |104
+audio_datasets/chunk_3/104/24.wav|ɗˌe4 tˈy6c hˈiɛ6n ɲˌy5ŋ ˈiɜ t0ˈyə4ŋ ɗˈiɛn zˈo2 . vˌi2 vˈəɪ6 , |104
+audio_datasets/chunk_3/104/25.wav|hˈa5j lˈiɛw lˈi5ɲ xˌi kˌɔ2n tʃˈɛ4 . |104
+audio_datasets/chunk_3/104/27.wav|lˌaː2 mˈo6t0 ŋˈyə2j zˈəɜt0 ˈiɛw tˈe4 tˈaːw . |104
+audio_datasets/chunk_3/104/29.wav|xˌi kˌɔ2n ɲˈɔ4 , kˈoŋ vˈiɛ6c mˈuə2 hˈɛ2 kˌuə4 ˈoŋ |104
+audio_datasets/chunk_3/104/33.wav|mˌo5j bˈuə4j sˈaːɜŋ t0ˈaŋ lˈaː2m . |104
+audio_datasets/chunk_3/104/36.wav|t0ˈiɛɜp t0ˈu6c hˈɔ6k lˈen tˈaː6c sˈi5 t0ˈaː6j tʃˈyə2ŋ kˈiɲ zwˈe-ɲ stˈanfəd . |104
+audio_datasets/chunk_3/104/38.wav|xˌi ŋˈɛ kˌaːɜc zˈaːɜw sˈy mˈo t0ˈaː4 t0ˈiɜɲ kˈe-ɜc kˌuə4 mˈo6t0 |104
+audio_datasets/chunk_3/104/40.wav|vˌəːɜj ɗˈe6 tˈi6 ˈiɛw kˈə2w lˈə6p mˈo6t0 kˈeɜ hwˈe-6c . |104
+audio_datasets/chunk_3/104/43.wav|lˈiɛw zˈa2j tˈeɜ tˈaːw ɲˈə6t0 . |104
+audio_datasets/chunk_3/104/44.wav|kˈɔɜ tˈe4 vˈyə6t0 mˈa6t0 zˈa6j tˈe4 tˈaːw ɗˈyɜc . |104
+audio_datasets/chunk_3/104/45.wav|ɲˌy kˌaːɜc kˈe-ɜc zˈɔ2ŋ mˈaɜj ˈe-4ɲ ɲˈə6t0 ɗˌaː5 lˈaː2m vˌəːɜj mˈaɜj ˈe-4ɲ vˈiɛ6t0 . |104
+audio_datasets/chunk_3/104/46.wav|mˈa6c zˌu2 xˌoŋ ˈaːj ˈəɜn t0ˈyə6ŋ vˈe2 kˈeɜ hwˈe-6c . |104
+audio_datasets/chunk_3/104/47.wav|ɗˈɔɜ , nˈaɪt vˌə5n xˌoŋ ŋˈy2ŋ tˈɛw ɗˈuə4j ˈiɜ t0ˈyə4ŋ . |104
+audio_datasets/chunk_3/104/49.wav|vˈe2 mˈyɜc zˈaːɜ zˈɛ4 ˈəː4 mˈi5 . |104
+audio_datasets/chunk_3/104/52.wav|ˈoŋ bˈiɛɜt0 ɗˌeɜn vˌaː2 fˌaː4j lˈɔ2ŋ ɲˌy5ŋ ɗˈoj zˈa2j tˈaɪɡə . |104
+audio_datasets/chunk_3/104/53.wav|ɲˈəː2 ˈɒnɪks bˈoɜn kˈaː sˈa5n sˈyɜc . |104
+audio_datasets/chunk_3/104/54.wav|nˈɔɜj ɗˌeɜn tˈaɪɡə , kˈɔɜ mˈo6t0 tʃˈi t0ˈiɛɜt0 tˈuɜ vˈi6 . |104
+audio_datasets/chunk_3/104/57.wav|lˌaː2 mˈo6t0 tˈe-ɲ nˈiɛn tʃˈɛ4 t0ˈuə4j lˈaː6j ɗˌaːŋ ˈəː4 nˈyəɜc ɲˈə6t0 . |104
+audio_datasets/chunk_3/104/58.wav|kˈu5ŋ xˌoŋ kˈɔɜ zˈi2 ɗˌe4 mˈəɜt0 . |104
+audio_datasets/chunk_3/104/59.wav|nˈaɪt ɗˌaː5 ɗˈe-ɜɲ bˈaː2w ɣˈɔ6j ɗˈiɛ6n tʃˌɔ tʃˈaːɜm ɗˈoɜk ɗˈiɛ2w hˈe-2ɲ kˌuə4 tˈaɪɡə . |104
+audio_datasets/chunk_3/104/61.wav|vˌaː2 ɗˌyə6c ɗˈo2ŋ ˈiɜ ɣˈa6p mˈa6t0 . |104
+audio_datasets/chunk_3/104/62.wav|nˈaɪt ɗˈaː6t0 ɗˌyə6c twˈaː4 twˈə6n kwˈiɛ2n fˈən fˈoɜj zˈa6j . |104
+audio_datasets/chunk_3/104/63.wav|ˌɒnɪtsjˈuːkə tˈaɪɡə t0ˈaː6j mˈiɛ2n t0ˈəɪ nˈyəɜc mˈi5 . |104
+audio_datasets/chunk_3/104/64.wav|xˌoŋ ŋˈəː2 mˌɔ6j tʃwˈiɛ6n lˈaː6j twˈə6n lˈəː6j ɲˌy vˈəɪ6 . |104
+audio_datasets/chunk_3/104/65.wav|fˈiɛw ŋˈə5w ɲˈiɛn tˈuəɜc lˈen . |104
+audio_datasets/chunk_3/104/66.wav|blwˈɛ ɹˈɪbən xˌi ˈoŋ ˈɜːnst kˈaː . |104
+audio_datasets/chunk_3/104/67.wav|hˈɔ4j vˈe2 t0ˈen kˈoŋ t0ˈi . |104
+audio_datasets/chunk_3/104/68.wav|sˈy6 ŋˈiɛ6p kˈiɲ zwˈe-ɲ kˌuə4 nˈaɪt ɗˌaː5 bˈaɜt0 ɗˈə2w ɲˌy vˈəɪ6 . |104
+audio_datasets/chunk_3/104/69.wav|xˌoŋ fˌaː4j lˌuɜc nˈaː2w mˌɔ6j tʃwˈiɛ6n kˈu5ŋ zˈiɛ5n zˈaː ɲˌy tˈeɜ nˈa2j . |104
+audio_datasets/chunk_3/104/70.wav|ɲˌyŋ xˌi bˈaː6n kˌɔ2n tʃˈɛ4 vˌaː2 xˌoŋ bˈiɛɜt0 fˌaː4j lˈaː2m zˈi2 . |104
+audio_datasets/chunk_3/104/71.wav|tˌi2 ɗˈɔɜ lˌaː2 lˌuɜc bˈaː6n kˈɔɜ tˈe4 . |104
+audio_datasets/chunk_3/104/72.wav|kˈɔɜ tˈe4 lˈiɛ2w lˈi5ɲ tˈɛw ɗˈo6j ˈiɜ t0ˈyə4ŋ ɗˈiɛn zˈə2w ɲˈəɜt0 kˌuə4 mˈi2ɲ . |104
+audio_datasets/chunk_3/104/73.wav|zˈəɜt0 kˈɔɜ tˈe4 bˈaː6n sˌɛ5 tˈe-2ɲ kˈoŋ . |104
+audio_datasets/chunk_3/104/74.wav|nˈo6j zˈuŋ tˈyɜ hˈaːj . |104
+audio_datasets/chunk_3/104/75.wav|ɲˌy5ŋ ŋˈyə2j kˈoɜ vˈəɜn vˌaː2 kˈo6ŋ sˈy6 t0ˈin t0ˈyə4ŋ ˈəː4 bˈaː6n . |104
+audio_datasets/chunk_3/104/76.wav|vˌaː2 mˈaːŋ lˈaː6j kˌaːɜc kˈi5 nˈaŋ zˈaːɜ tʃˈi6 . |104
+audio_datasets/chunk_3/104/77.wav|tʃˈɔŋ xˌi vˈi6 kˈiɜ kˈeɜt0 twˈaː4 twˈə6n bˈaːɜn ɗˈo2 . |104
+audio_datasets/chunk_3/104/78.wav|zˈa2j ɲˈə6t0 ˈəː4 mˈi5 zˈiɛ5n zˈaː twˈə6n lˈəː6j . |104
+audio_datasets/chunk_3/104/80.wav|fˌaː4j mˈəɜt0 hˈəːn mˈo6t0 nˈam , bˈaː tʃˈam ɗˈoj zˈa2j ɗˈə2w t0ˈiɛn mˈəːɜj ɗˌyə6c . |104
+audio_datasets/chunk_3/104/81.wav|ɗˌyə6c tʃwˈiɛ4n ɗˌeɜn tʃˈɔŋ sˈuəɜt0 tˈəː2j zˈaːn ɗˈɔɜ . |104
+audio_datasets/chunk_3/104/82.wav|nˈaɪt ɗˈe-2ɲ lˈaː2m kˈoŋ vˈiɛ6c kˈeɜ t0wˈaːɜn . |104
+audio_datasets/chunk_3/104/83.wav|xˌi ɲˈə6n ɗˌyə6c zˈa6j , mˈo6t0 tʃˈɔŋ ɲˌy5ŋ ŋˈyə2j ɗˈə2w t0ˈiɛn xnˈaːɜc . |104
+audio_datasets/chunk_3/104/84.wav|ɣˈy4j zˈa6j t0ˌəːɜj lˌaː2 bˈɪl pˈʊlmən . |104
+audio_datasets/chunk_3/104/85.wav|hˈo2 kwˈemˈɛn t0ˈy2ŋ lˌaː2 hˈo2 kwˈemˈɛn . |104
+audio_datasets/chunk_3/104/88.wav|hˈi vˈɔ6ŋ sˌɛ5 bˈaːɜn ɗˌyə6c zˈəɪ6 . |104
+audio_datasets/chunk_3/104/90.wav|mˈaːŋ t0ˈə2m ˈe-4ɲ hˈyə4ŋ t0ˌy2 bˈɪl . |104
+audio_datasets/chunk_3/104/91.wav|bˈəɜt0 ŋˈəː2 tˈaj hˈəːn kˈaː4 kˈi2 vˈɔ6ŋ . |104
+audio_datasets/chunk_3/104/93.wav|ˈoŋ sˌɛ5 tʃˈi6w tʃˈe-ɜc ɲˈiɛ6m tˈiɛɜt0 kˈeɜ sˈaː4n fˈə4m . |104
+audio_datasets/chunk_3/104/94.wav|vˈiɛ6c pˈe ˈɔ ðˈe7 ˈɛ ˈɛʐəː2 ˈɛməː2 ˈaː ˈɛnəː2 tʃˈəː4 tˈe-2ɲ kˈoɜ vˈəɜn kˈim kˈo6ŋ sˈy6 . |104
+audio_datasets/chunk_3/104/95.wav|vˌaː2 ɗˈo2ŋ lˈɔ2ŋ t0ˈin t0ˈyə4ŋ vˈaː2w ˈiɜ t0ˈyə4ŋ kˌuə4 nˈaɪt . |104
+audio_datasets/chunk_3/104/96.wav|ɗˌaː5 xˈiɛɜn nˈaɪt t0ˈy6 t0ˈin t0ˈaː6w zˈy6ŋ kˈoŋ t0ˈi tˈɛw ɗˈuə4j . |104
+audio_datasets/chunk_3/104/100.wav|vˌaː2 tʃˈuɜ ɗˈaːɜw mˌaː2 tʃˈuɜŋ t0ˈaː bˈiɛɜt0 ɗˌeɜn ŋˈa2j nˈaj . |104
+audio_datasets/chunk_3/104/101.wav|nˈam ɗˈə2w t0ˈiɛn , nˈaɪt . |104
+audio_datasets/chunk_3/104/103.wav|vˌaː2 lˈiɛ2n mˈa2w sˈe-ɲ vˌaː2 mˈaːŋ ɗˈi bˈe-ɜɲ . |104
+audio_datasets/chunk_3/104/104.wav|nˈam mˈo6t0 ŋˈi2n tʃˈiɜn tʃˈam sˈaɜw mˈyəj bˈaː . |104
+audio_datasets/chunk_3/104/106.wav|vˌaː2 zwˈe-ɲ sˈoɜ bˈaːɜn zˈa6j tˈu vˈe2 . |104
+audio_datasets/chunk_3/104/107.wav|lˌaː2 t0ˈaːɜm ŋˈi2n ɗˈo lˈaː . |104
+audio_datasets/chunk_3/104/108.wav|pˈe ˈɔ kˈaː ˈɛɜ ˈɛməː2 ˈɔ ˈɛnəː2 xˌoŋ tʃˈi4 ɗˈɔɜŋ vˈaːj zˈɔ2 ŋˈyə2j kˈo4 vˈu5 t0ˈiɲ tˈə2n tʃˌɔ . |104
+audio_datasets/chunk_3/104/109.wav|mˌaː2 zˈɔ5 zˈaː2ŋ |104
+audio_datasets/chunk_3/104/110.wav|ɲˌy5ŋ kˈi5 nˈaŋ ɲˈaː2 ŋˈe2 kˌuə4 ˈoŋ . |104
+audio_datasets/chunk_3/104/111.wav|ɗˌaː5 ɣˈəɜp fˈə2n kwˈaːn tʃˈɔ6ŋ tʃˌɔ tˈe-2ɲ kˈoŋ kˌuə4 kˈoŋ t0ˈi . |104
+audio_datasets/chunk_3/104/112.wav|nˈo6j zˈuŋ tˈyɜ bˈaː |104
+audio_datasets/chunk_3/104/113.wav|tʃˈi4 kˈə2n tʃˌɔ mˌɔ6j ŋˈyə2j bˈiɛɜt0 kˈeɜt0 kwˈaː4 kˈə2n ɗˈaː6t0 ɗˌyə6c . |104
+audio_datasets/chunk_3/104/114.wav|vˌaː2 ɗˌe4 hˈɔ6 t0ˈy6 t0ˈi2m zˈaː kˈe-ɜc . |104
+audio_datasets/chunk_3/104/115.wav|xˌi lˈaː2m vˈiɛ6c vˌəːɜj ŋˈyə2j xˈaːɜc , ɲˌy5ŋ fˈyəŋ fˈaːɜp hˈi5w hˈiɛ6w ɲˈəɜt0 . |104
+audio_datasets/chunk_3/104/116.wav|lˈaː6j nˈa2m ˈəː4 hˈaːj kˈy6c vˈo kˈu2ŋ tʃˈaːɜj ŋˈyə6c . |104
+audio_datasets/chunk_3/104/117.wav|hwˌa6c nˈɔɜj tʃˌɔ hˈɔ6 kˈe-ɜc lˈaː2m mˌɔ6j tˈyɜ . |104
+audio_datasets/chunk_3/104/119.wav|ŋwˈaː2j t0ˌy2 kˈeɜt0 kwˈaː4 mˈɔŋ mˈuəɜn . |104
+audio_datasets/chunk_3/104/120.wav|ɲˈaː2 sˈa5n lˈə6p nˈaɪk . |104
+audio_datasets/chunk_3/104/124.wav|vˌaː2 hˈɔ6 sˌɛ5 xˈiɛɜn bˈaː6n ŋˈaː6c ɲˈiɛn vˌəːɜj kˈeɜt0 kwˈaː4 . |104
+audio_datasets/chunk_3/104/126.wav|nˈaɪt lˈuən mˈuəɜn ɗˌe4 mˌɔ6j ŋˈyə2j ɗˌyə6c lˌaː2 tʃˈiɜɲ mˈi2ɲ . |104
+audio_datasets/chunk_3/104/129.wav|pˈe ˈɔ ðˈe7 ˈɛ ˈɛʐəː2 ˈɛməː2 ˈaː ˈɛnəː2 lˌaː2 mˈo6t0 kˈɛ4 ŋˈiɛ6n zˈa2j ɗˈiɜc tˈy6c . |104
+audio_datasets/chunk_3/104/132.wav|xˌi hwˈəɜn lwˈiɛ6n vˈiɛn nˈaɪt tʃˈa6j . |104
+audio_datasets/chunk_3/104/133.wav|pˈe ˈɔ kˈaː ˈɛɜ ˈɛməː2 ˈɔ ˈɛnəː2 kˈɔɪl nˈaɪt lˌaː2 mˈo6t0 tʃˈuɜ tʃˈuə6t0 bˈe-6c tˈy4 ŋˈiɛ6m zˈəɪ6 . |104
+audio_datasets/chunk_3/104/135.wav|kˌaːɜc tʃˈəɜt0 lˈiɛ6w zˈa2j mˈəːɜj , t0ˈiɲ tʃˈi4ɲ . |104
+audio_datasets/chunk_3/104/138.wav|bˈa2ŋ kˈe-ɜc nˈa2j . |104
+audio_datasets/chunk_3/104/139.wav|ˈoŋ kˈoɜ ɣˈaɜŋ lˈaː2m tʃˌɔ zˈəɪ6 tʃˈəː4 nˌen ɲˈɛ6 hˈəːn . |104
+audio_datasets/chunk_3/104/141.wav|tˈə6m tʃˈiɜ ɗˌaː5 t0ˈy2ŋ kˈɔɜ lˈə2n . |104
+audio_datasets/chunk_3/104/145.wav|pˈe ˈɔ kˈaː ˈɛ ˈɛməː2 ˈɔ ˈɛnəː2 bˈaɜt0 ɗˈə2w hwˈəɜn lwˈiɛ6n kˌaːɜc vˈə6n ɗˈo6ŋ vˈiɛn tʃˈɛ4 . |104
+audio_datasets/chunk_3/104/146.wav|tʃˈɔŋ ɗˈɔɜ kˈɔɜ tˈe4 t0ˈi2m ɗˌyə6c mˈo6t0 sˈaː4n fˈə4m nˈo4j t0ˈiɛɜŋ , tʃˈɔŋ ɗˈɔɜ kˈɔɜ tˈe4 t0ˈi2m ɗˌyə6c mˈo6t0 sˈaː4n fˈə4m nˈo4j t0ˈiɛɜŋ , |104
+audio_datasets/chunk_3/104/147.wav|kˈɔɜ kˈaː4 vˈə6n ɗˈo6ŋ vˈiɛn əlˈɪmpɪk t0ˈyəŋ lˈaːj . |104
+audio_datasets/chunk_3/104/149.wav|xˌi nˈaɪt ɣˈy4j mˈə5w zˈa2j kɔːtˈɛz . |104
+audio_datasets/chunk_3/104/150.wav|kˌaːɜj t0ˈiɜɲ kˌuə4 pˈe ˈɔ kˈaː ˈɛɜ ˈɛməː2 ˈɔ ˈɛnəː2 t0ˌəːɜj ɒnˈɪstɪkə . |104
+audio_datasets/chunk_3/104/151.wav|hˈɔ6 ɗˌaː5 kˈɔɜ ɗˌyə6c zˈaːw zˈi6c lˈəːɜn ɗˈə2w t0ˈiɛn . |104
+audio_datasets/chunk_3/107/0.wav|sˈəː6 bˌi6 t0ˌy2 tʃˈoɜj . |107
+audio_datasets/chunk_3/107/1.wav|sˈəː6 tˈəɜt0 bˈaː6j . sˈəː6 mˈyɜc mˈaːɜt0 . |107
+audio_datasets/chunk_3/107/3.wav|tʃˈuɜŋ t0ˈo2n t0ˈaː6j zˈaː zˈə5n , ɲˈyɜt0 ɲˈoɜj . |107
+audio_datasets/chunk_3/107/7.wav|lˈɔ2ŋ kˈiɛn tʃˈi2 vˌaː2 fˈyəŋ fˈaːɜp ɗˈuɜŋ . |107
+audio_datasets/chunk_3/107/8.wav|ɲˌyŋ ɲˌy tˈeɜ nˈaː2w lˌaː2 fˈyəŋ fˈaːɜp ɗˈuɜŋ ? |107
+audio_datasets/chunk_3/107/10.wav|kˈɔɜ tˈe4 fˈə2n nˈaː2w zˈuɜp bˈaː6n zˈaː4 ɗˈaːɜp tˈaɜc mˈaɜc ɗˈɔɜ . |107
+audio_datasets/chunk_3/107/11.wav|tˈoŋ kwˈaː vˈiɛ6c tˈuə6c lˈaː6j kˈuə6c ɗˈəː2j ɗˌe4 tˈaŋ tʃˈə2m . |107
+audio_datasets/chunk_3/107/12.wav|kəkˈaʃi nˈam mˈyəj sˈɛnt |107
+audio_datasets/chunk_3/107/13.wav|ɹˈɒbət ɡɹˈiːn ɗˌaː5 ɲˈəɜn mˈe-6ɲ . |107
+audio_datasets/chunk_3/107/14.wav|tʃˈiɜɲ fˈɔŋ tʃˈəɜt0 xˌoŋ lˈyə2 bˈyəɜc tʃˈyəɜc sˈəː6 hˈaː5j . |107
+audio_datasets/chunk_3/107/15.wav|ɗˌaː5 zˈuɜp nˈam mˈyəj sˈɛnt vˈyə6ŋ ɗˌeɜn ɗˈi4ɲ kˈaːw . |107
+audio_datasets/chunk_3/107/19.wav|sˈi5 zˈəːɜj bˈo2 tʃˈaːɜ , nɐpˈəʊlɪən |107
+audio_datasets/chunk_3/107/21.wav|tʃˈeɜ ŋˈy2ŋ nˈɔɜj sˈəː6 hˈaː5j tʃˈɔŋ t0ˈəm tʃˈiɜ . |107
+audio_datasets/chunk_3/107/22.wav|lˈə6p tʃˈiɛɜn lˈyə6c kˈuə6c ɗˈəː2j ɗˌe4 vˈyə2n ɗˌeɜn tˈe-2ɲ kˈoŋ . |107
+audio_datasets/chunk_3/107/23.wav|sˈaw ɗˈəɪ , mˈəː2j bˈaː6n kˈu2ŋ fˈəʊnəʊz ɗˈiɛ4m kwˈaː . |107
+audio_datasets/chunk_3/107/24.wav|bˈaː nˈo6j zˈuŋ tʃˈiɜɲ tʃˈɔŋ kˈuəɜn sˈe-ɜc . |107
+audio_datasets/chunk_3/107/27.wav|ɲˈi2n ɗˈuɜŋ bˈaː4n tʃˈəɜt0 tˈy6c t0ˈeɜ . |107
+audio_datasets/chunk_3/107/28.wav|vˌaː2 t0ˈy6 zˈyə6 vˈaː2w bˈaː4n tˈən mˈi2ɲ . |107
+audio_datasets/chunk_3/107/29.wav|mˈo6t0 tʃˈɔŋ ɲˌy5ŋ kˈaː4m sˈuɜc kˈɔɜ sˈyɜc t0ˈaː6ŋ fˈaːɜ ɲˈəɜt0 . |107
+audio_datasets/chunk_3/107/32.wav|fˈɔɜŋ ɗˈaː2 ɲˌy5ŋ zˈi2 sˈa4j zˈaː tˈɛw tʃˈiɛ2w hˈyəɜŋ sˈəɜw hˈyəŋ . |107
+audio_datasets/chunk_3/107/37.wav|ɲˌyŋ tˈy6c t0ˈeɜ lˌaː2 , tˈe-2ɲ kˈoŋ sˌɛ5 xˌoŋ bˈaːw zˈəː2 ɗˌeɜn vˌəːɜj ɲˌy5ŋ |107
+audio_datasets/chunk_3/107/38.wav|ˈaːj xˌoŋ tˈəɜw sˈuəɜt0 ɗˌyə6c bˈaː4n tʃˈəɜt0 kˌuə4 hˈiɛ6n tˈy6c . |107
+audio_datasets/chunk_3/107/39.wav|ɹˈɒbət ɡɹˈiːn , hˈyəɜŋ zˈə5n kˈe-ɜc zˈuɜp tʃˈuɜŋ t0ˈaː . |107
+audio_datasets/chunk_3/107/44.wav|bˌəː4j vˌi2 ˈəː4 tʃˈiɜɲ xwˈe-4ɲ xˈaɜc , |107
+audio_datasets/chunk_3/107/46.wav|bˈəɜt0 tʃˈəɜp t0ˈin xˈe-ɜc kwˈaːn . |107
+audio_datasets/chunk_3/107/47.wav|tˈeɜ ɗˈɔɜ kˈu5ŋ tʃˈiɜɲ lˌaː2 xˌi t0ˈaː sˈaː zˈəː2j tˈy6c t0ˈeɜ . |107
+audio_datasets/chunk_3/107/48.wav|ɲˈə6n tˈyɜc vˌaː2 hˈiɛ6n tˈy6c kˌuə4 tʃˈuɜŋ t0ˈaː . |107
+audio_datasets/chunk_3/107/50.wav|vˌaː2 t0ˈaː sˌɛ5 ɗˈyə zˈaː ɲˌy5ŋ kwˈiɛɜt0 ɗˈi6ɲ sˈaːj lˈə2m . |107
+audio_datasets/chunk_3/107/54.wav|t0ˈaː tʃˈi4 nˌen zˈyə6 vˈaː2w tʃˈiɜɲ bˈaː4n tˈən mˈi2ɲ . |107
+audio_datasets/chunk_3/107/55.wav|vˌi2 vˈiɛ6c fˈu6 tˈuə6c , zˌu2 lˈəː6j vˈaː2w ŋˈyə2j xˈaːɜc . |107
+audio_datasets/chunk_3/107/56.wav|hˈaj bˈəɜt0 kˈi2 tˈyɜ zˈi2 kˈu5ŋ xˈiɛɜn t0ˈaː bˌi6 kˈiɛ2m hˈaː4m . |107
+audio_datasets/chunk_3/107/57.wav|tˈy6c t0ˈeɜ tˌi2 , t0ˈe-ɜc mˈi2ɲ zˈaː xˈɔ4j ɗˈiɛ2w t0ˈaː t0ˈy2ŋ fˈu6 tˈuə6c . |107
+audio_datasets/chunk_3/107/60.wav|tʃˈi4 kˈə2n ɲˈi2n tˈa4ŋ vˌaː2 tˈy6c t0ˈeɜ lˌaː2 . |107
+audio_datasets/chunk_3/107/61.wav|sˈy6 fˈu2 tˈuə6c tˈə6t0 zˈaː lˌaː2 mˈo6t0 tˈɔɜj kwˈɛn . |107
+audio_datasets/chunk_3/107/66.wav|vˌaː2 zˈo2j ɗˈə2w hˈaː2ŋ tʃˈyəɜc nˈo5j sˈəː6 . |107
+audio_datasets/chunk_3/107/67.wav|tʃˈi4 kˈɔɜ kˈe-ɜc ɗwˈaː6n t0wˈiɛ6t0 vˌəːɜj sˈy6 fˈu2 tˈu6 . |107
+audio_datasets/chunk_3/107/68.wav|t0ˌy2 tʃˈoŋ kˈəɪ6 vˈaː2w bˈaː4n tˈən . |107
+audio_datasets/chunk_3/107/69.wav|t0ˈaː mˈəːɜj kˈɔɜ ɗˈu4 zˈu5ŋ xˈiɜ , ɗˈyə2ŋ ɗˈə2w vˌəːɜj nˈo5j sˈəː6 hˈaː5j . |107
+audio_datasets/chunk_3/107/71.wav|nˈo6j zˈuŋ tˈyɜ hˈaːj |107
+audio_datasets/chunk_3/107/72.wav|hˈa5j lˈaː6c kwˈaːn t0ˈiɛɜn vˈe2 fˈiəɜ tʃˈyəɜc . |107
+audio_datasets/chunk_3/107/73.wav|kˈuə6c sˈoɜŋ lˈuən tʃˈyəɜ zˈəɜt0 ɲˈiɛ2w t0ˈi2ɲ hˈuəɜŋ . |107
+audio_datasets/chunk_3/107/74.wav|mˌaː2 t0ˈaː xˌoŋ tˈe4 xˈoɜŋ tʃˈeɜ ɗˌyə6c . |107
+audio_datasets/chunk_3/107/77.wav|vˌaː2 kwˈiɛɜt0 ɗˈi6ɲ tʃˈəː2 ɗˈəː6j tʃˌɔ ɗˌeɜn xˌi mˌɔ6j vˈiɛ6c xˈaːɜ hˈəːn . |107
+audio_datasets/chunk_3/107/80.wav|tʃˈɔŋ xˈɔɜ xˈan , lˈuən t0ˈo2n t0ˈaː6j kˈəː hˈo6j . |107
+audio_datasets/chunk_3/107/81.wav|kwˈaːn tʃˈɔ6ŋ lˌaː2 t0ˈaː fˌaː4j bˈiɛɜt0 ɲˈi2n ɲˈə6n t0ˈi2ɲ hˈuəɜŋ mˈo6t0 kˈe-ɜc lˈaː6c kwˈaːn . |107
+audio_datasets/chunk_3/107/83.wav|vˈiɜ ɲˌy kˈə1w tʃwˈiɛ6n vˌaː2 kˈe-ɜc ɗˈoɜj zˈiɛ6n bˈiɛɜn kˈoɜ . |107
+audio_datasets/chunk_3/107/84.wav|mˌaː2 nˈam mˈyəj sˈɛnt t0ˈy2ŋ tʃˈaː4j kwˈaː . |107
+audio_datasets/chunk_3/107/86.wav|sˈaw ɗˈɔɜ , zˈɔ6ŋ kˈaː kˌuə4 ˈe-ɲ |107
+audio_datasets/chunk_3/107/87.wav|ɲˌy5ŋ kˈeɜ hwˈe-6c ˈe-ɲ bˌi6 tˈaj ɗˈo4j bˌəː4j ɲˌy5ŋ mˈe-4ɲ ɗˈaː6n kˌɔ2n sˈɔɜt0 ˈəː4 lˈyəɜj . |107
+audio_datasets/chunk_3/107/90.wav|ˈe-ɲ zˈu2ŋ ˈəm hˈyə4ŋ zˈɔɜ zˈiɜt0 t0ˌy2 vˈeɜt0 tˈyəŋ . |107
+audio_datasets/chunk_3/107/93.wav|ˈe-ɲ ɗˈyə vˈaː2w t0ˈy2ŋ kˈə1w hˈaːɜt0 . |107
+audio_datasets/chunk_3/107/94.wav|xˈiɛɜn zˈaː ɗˈi2ɲ kˌuə4 ˈe-ɲ ɣˈəɪ sˈuɜc ɗˈo6ŋ mˈe-6ɲ vˌəːɜj kˈoŋ tʃˈuɜŋ . |107
+audio_datasets/chunk_3/107/95.wav|tˈaj vˌi2 sˈəː6 hˈaː5j , ˈe-ɲ t0ˈə6n zˈu6ŋ t0ˈoɜj ɗˈaː mˌɔ6j tˈyɜ . |107
+audio_datasets/chunk_3/107/97.wav|kˈɔɜ mˈo6t0 sˈoɜ kˈe-ɜc zˈyə5 tʃˈuɜŋ t0ˈaː . |107
+audio_datasets/chunk_3/107/98.wav|xˌoŋ ŋˈy2ŋ t0ˈiɛɜŋ bˈɛ6p fˈiəɜ tʃˈyəɜc ɲˌy nˈam mˈyəj sˈɛnt . |107
+audio_datasets/chunk_3/107/99.wav|bˈəɜt0 tʃˈəɜp mˌɔ6j zˈaːn nˈaː2n , zˈɔ2ŋ bˈaː5w . |107
+audio_datasets/chunk_3/107/101.wav|vˌaː2 kˈəː4j mˈəː4 vˌəːɜj ɲˌy5ŋ ɗˈiɛ2w mˈəːɜj mˈɛ4 . |107
+audio_datasets/chunk_3/107/102.wav|ɗˈy2ŋ t0ˌy2 hˈaː6n tʃˈeɜ tʃˈi tˈyɜc kˌuə4 mˈi2ɲ . |107
+audio_datasets/chunk_3/107/103.wav|tˈyɜ hˈaːj , ɗˈy2ŋ ɗˈaɜm tʃˈi2m vˈaː2w kˈaː4m sˈuɜc . |107
+audio_datasets/chunk_3/107/104.wav|vˌi2 tʃˈuɜŋ sˌɛ5 tʃˌa4ŋ lˈoɜj t0ˈaː ɗˈi ɗˌeɜn tˈe-2ɲ kˈoŋ . |107
+audio_datasets/chunk_3/107/106.wav|ɗˈuɜŋ vˈaː2w xˈaː4 nˈaŋ kˌuə4 ŋˈyə2j lˈaː2m vˈiɛ6c kˈu2ŋ t0ˈaː . |107
+audio_datasets/chunk_3/107/109.wav|xˌoŋ ɗˌe4 bˌi6 bˈɔ4 tʃˈa6t0 vˈaː2w mˈo6t0 fˈɔŋ kˈe-ɜc ɗˌaː5 lˈo5j tˈəː2j . |107
+audio_datasets/chunk_3/107/110.wav|nˈo6j zˈuŋ tˈyɜ bˈaː . |107
+audio_datasets/chunk_3/107/111.wav|xˌoŋ ŋˈaː6j ɗˈoɜj ɗˈə2w , ɲˌyŋ ɗˈɔɜn ɲˈə6n fˈe bˈe6ɲ t0ˈiɜc kˈy6c . |107
+audio_datasets/chunk_3/107/113.wav|lˈaɜm lˌuɜc , t0ˈaː tʃwˈə4n bˈyəɜc tʃˈyəɜc hˈɔ6 . |107
+audio_datasets/chunk_3/107/117.wav|ɗˈoɜj vˌəːɜj ɲˌy5ŋ kˈɛ4 t0ˈəɜn kˈoŋ tʃˈy6c zˈiɛ6n . |107
+audio_datasets/chunk_3/107/118.wav|tˈaj vˌi2 ɗˈe-ɜɲ tʃˈaː4 tʃˈy6c t0ˈiɛɜp . |107
+audio_datasets/chunk_3/107/120.wav|zˈo2j ɗˈe-ɜɲ vˈaː2w kˌaːɜc sˈəː hˈəː4 ɗˈɔɜ . |107
+audio_datasets/chunk_3/107/121.wav|ɗˈoɜj vˌəːɜj ɲˌy5ŋ kˈɛ4 kˈoŋ kˈiɜc ŋˈəɜm ŋˈə2m . |107
+audio_datasets/chunk_3/107/123.wav|kˈu5ŋ xˌoŋ nˌen ŋˈaɜm ŋˈə2m ɗˈaːɜp tʃˈaː4 lˈaː6j . |107
+audio_datasets/chunk_3/107/125.wav|ɗˈiɛ2w t0ˈaː kˈə2n lˈaː2m lˌaː2 t0ˈi2m kˈiɛɜm ɗˈo2ŋ mˈiɲ . |107
+audio_datasets/chunk_3/107/126.wav|vˌaː2 tˈy6c hˈiɛ6n kˌaːɜc hˈe-2ɲ ɗˈo6ŋ xˌoŋ xwˈaːn ɲˈyə6ŋ . |107
+audio_datasets/chunk_3/107/129.wav|t0wˈi ɲˈiɛn , xˌoŋ fˌaː4j lˌuɜc nˈaː2w t0ˈaː kˈu5ŋ ɲˈə6n zˈi6 ɲˌy5ŋ zˈi2 xˌoŋ zˈe5 tʃˈi6w . |107
+audio_datasets/chunk_3/107/131.wav|ɗˈa6c bˈiɛ6t0 lˌaː2 ɲˌy5ŋ lˈəː2j fˈe bˈi2ɲ . |107
+audio_datasets/chunk_3/107/134.wav|t0ˌy2 ɗˈɔɜ ɗˈyə zˈaː zˈaː4j fˈaːɜp fˈu2 hˈəː6p hˈəːn . |107
+audio_datasets/chunk_3/107/135.wav|ɗˌe4 ɲˈə6n ɗˌyə6c ɲˌy5ŋ lˈəː2j fˈɛɜp bˈi2ɲ t0ˈiɜc kˈy6c . |107
+audio_datasets/chunk_3/107/136.wav|tʃˈuɜŋ t0ˈaː fˌaː4j t0ˈaː6w ɗˌyə6c mˈoɜj lˈiɛn kˈeɜt0 vˌəːɜj mˈoj tʃˈyə2ŋ vˌaː2 kˌɔn ŋˈyə2j sˈuɜŋ . |107
+audio_datasets/chunk_3/108/1.wav|mˈa6t0 xˈaːɜc , ɲˌy5ŋ ɗˈyəɜ tʃˈɛ4 ˈiɜt0 tˈe4 hˈiɛ6n ɗˈaŋ xˈiɜw ˈəː4 tʃˈyə2ŋ hˈɔ6k . |108
+audio_datasets/chunk_3/108/2.wav|sˈaw nˈa2j lˈaː6j tˈyə2ŋ ɗˈaː6t0 ɗˌyə6c tˈe-2ɲ t0ˈiɜc kˈaːw hˈəːn ɲˈiɛ2w . |108
+audio_datasets/chunk_3/108/4.wav|ɗˌyə6c tʃˌɔ lˌaː2 swˈəɜt0 tʃˈu4ŋ xˌi ˈəɪɜ . |108
+audio_datasets/chunk_3/108/5.wav|tʃˌa4ŋ hˈaː6n ɲˌy tʃˈɑːlz dˈɑːwɪn . |108
+audio_datasets/chunk_3/108/6.wav|tʃˈyəɜc kˈiə , mˌɔ6j ŋˈyə2j ɗˈe2w ɲˈə6n sˈɛɜt0 dˈɑːwɪn lˌaː2 mˈo6t0 |108
+audio_datasets/chunk_3/108/9.wav|tʃˈɔŋ xˌi fɹˈansɪs ɡˈɒltən . |108
+audio_datasets/chunk_3/108/11.wav|sˈɛm lˌaː2 mˈo6t0 tˈiɛn t0ˈaː2j fˈi tˈyə2ŋ vˌəːɜj tʃˈi4 sˈoɜ . |108
+audio_datasets/chunk_3/108/15.wav|xˈiɛɜn ŋˈyə2j ŋˈyə2j ŋˈyə5ŋ mˈo6 sˈuəɜt0 ɲˈiɛ2w tˈeɜ kˈi4 . |108
+audio_datasets/chunk_3/108/17.wav|bˈaː6n kˈɔɜ nˈaŋ xˈiɛɜw hˈaj tʃˈi4 lˌaː2 mˈo6t0 ŋˈyə2j bˈi2ɲ tˈyə2ŋ ? |108
+audio_datasets/chunk_3/108/18.wav|vˈəɪ6 tˌi2 kˌaːɜc tˈiɛn t0ˈaː2j vˌaː2 ɲˌy5ŋ ŋˈyə2j bˈi2ɲ tˈyə2ŋ ˈəɪɜ |108
+audio_datasets/chunk_3/108/22.wav|vˌaː2 bˈaː nˈo6j zˈuŋ tʃˈiɜɲ tʃˈɔŋ kˈuəɜn sˈe-ɜc lˈaː2m tʃˈu4 kˌuə4 t0ˈaːɜc zˈaː4 . |108
+audio_datasets/chunk_3/108/28.wav|vˌaː2 ɗˌyə6c lˈaː2m vˈiɛ6c tʃˈɔŋ lˈi5ɲ vˈy6c ɗˈɔɜ . |108
+audio_datasets/chunk_3/108/29.wav|tʃˈiɜɲ lˌaː2 ɗˈi6ɲ mˈe6ɲ kˌuə4 ɗˈəː2j bˈaː6n . |108
+audio_datasets/chunk_3/108/30.wav|nˌeɜw kˈə1w tʃˈaː4 lˈəː2j lˌaː2 kˈɔɜ . |108
+audio_datasets/chunk_3/108/33.wav|lˌaː2 ŋwˈiɛn bˈaː4n . |108
+audio_datasets/chunk_3/108/35.wav|zˈɔ xˈaː4 nˈaŋ kˈeɜt0 hˈəː6p vˈo t0ˈə6n kˌuə4 dˌeˌɛnəː2ˈaː tʃˈɔŋ kˈəː tˈe4 . |108
+audio_datasets/chunk_3/108/36.wav|tʃˈuɜŋ t0ˈaː ɲˌy mˈo6t0 hˈiɛ6n t0ˈyə6ŋ ɗˈo6k ɲˈəɜt0 . |108
+audio_datasets/chunk_3/108/40.wav|fˌaː4j hwˈaː2 ɲˈə6p vˈaː2w sˈaː5 hˈo6j . |108
+audio_datasets/chunk_3/108/43.wav|tˌi2 sˌɛ5 tʃˈe-ɜɲ xˈɔ4j zˈaɜc zˈoɜj . |108
+audio_datasets/chunk_3/108/45.wav|ɲˌyŋ tʃˈiɜɲ sˈy6 ɗˈo6k ɗˈaːɜw kˌuə4 t0ˈy2ŋ kˈaːɜ ɲˈən mˈəːɜj lˌaː2 ɗˈiɛ2w tˈuɜc ɗˈəɪ4 . |108
+audio_datasets/chunk_3/108/49.wav|xˌi mˌɔ6j tˈyɜ ɗˈo6t0 ɲˈiɛn tʃˈəː4 nˌen zˈɔ5 zˈaː2ŋ . |108
+audio_datasets/chunk_3/108/51.wav|hˈɔ6 bˈiɛɜt0 ɗˌaːŋ mˈuəɜn lˈaː2m zˈi2 tʃˈɔŋ ɗˈəː2j . |108
+audio_datasets/chunk_3/108/52.wav|hˈɔ6 kˈaː4m tˈəɪɜ zˈa2ŋ tʃˈɔŋ sˈuəɜt0 kˈuə6c ɗˈəː2j , |108
+audio_datasets/chunk_3/108/56.wav|xwˈe-4ɲ xˈaɜc xˈaːj sˈaːɜŋ ˈəɪɜ |108
+audio_datasets/chunk_3/108/57.wav|lˌaː2 xˌi ˈoŋ lˈəɪɜ kˈaɜp ɲˌy5ŋ t0ˈəː2 zˈəɪɜ t0ˌy2 vˈan fˈɔ2ŋ kˌuə4 tʃˈaː mˈi2ɲ . |108
+audio_datasets/chunk_3/108/60.wav|tˈaj vˌi2 sˈy4 zˈu6ŋ nˈaŋ lˈyə6ŋ kˌuə4 mˈi2ɲ ɗˌe4 hˈoaː6 ɲˈə6p vˈaː2w ɗˈaːɜm ɗˈoŋ . |108
+audio_datasets/chunk_3/108/62.wav|vˌaː2 bˈaː6n kˈu5ŋ kˈɔɜ mˈu6c t0ˈiɛw tʃˈɔŋ ɗˈəː2j . |108
+audio_datasets/chunk_3/108/67.wav|t0ˈi2m sˈy6 hˈyəɜŋ zˈə5n ˈəː4 mˈo6t0 kˈoɜ vˈəɜn ɗˈaːɜŋ t0ˈin kˈəɪ6 . |108
+audio_datasets/chunk_3/108/68.wav|sˈaw xˌi ɗˈi6ɲ hˈyəɜŋ ɗˌyə6c lˈi5ɲ vˈy6c mˈuəɜn tˈɛw ɗˈuə4j . |108
+audio_datasets/chunk_3/108/69.wav|bˈaː6n kˈə2n t0ˈi2m kˈiɛɜm fˈyəŋ fˈaːɜp hˈo6p t0ˈə6p hˈiɛ6w kwˈaː4 . |108
+audio_datasets/chunk_3/108/73.wav|xˌi tʃˈuɜŋ t0ˈaː kˈoɜ ɣˈaɜŋ t0ˈy6 hˈɔ6k mˈo6t0 ɗˈiɛ2w mˈəːɜj . |108
+audio_datasets/chunk_3/108/76.wav|ɗˌe4 t0ˈi2m zˈaː zˈaː4j fˈaːɜp tˈy6c hˈe-2ɲ ɗˈuɜŋ ɲˈəɜt0 . |108
+audio_datasets/chunk_3/108/81.wav|mˈo6t0 ŋˈyə2j hˈyəɜŋ zˈə5n zˈə1w kˈiɲ ŋˈiɛ6m vˌaː2 kˈi5 nˈaŋ . |108
+audio_datasets/chunk_3/108/82.wav|vˌəːɜj ɲˌy5ŋ bˈiɜ kwˈiɛɜt0 kˈu5ŋ ɲˌy fˈyəŋ fˈaːɜp . |108
+audio_datasets/chunk_3/108/85.wav|ɗˈiɛ2w nˈa2j zˈoɜŋ ɲˌy vˈiɛ6c |108
+audio_datasets/chunk_3/108/86.wav|kˈoɜ ɣˈaɜŋ t0ˈi2m tˈəɪɜ ɣˈaː t0ˈə6w ˈəː4 mˈo6t0 tˈe-2ɲ fˈoɜ t0ˈaː mˈəːɜj ɗˌeɜn lˈə2n ɗˈə2w . |108
+audio_datasets/chunk_3/108/87.wav|t0ˈaː vˌə5n kˈɔɜ tˈe4 ɗˈi lwˈe-ɲ kwˈe-ɲ ɲˌy5ŋ kˌɔn ɗˈyə2ŋ . |108
+audio_datasets/chunk_3/108/88.wav|tʃˈəː4 ɗˌeɜn xˌi bˈaɜt0 ɗˈə2w . |108
+audio_datasets/chunk_3/108/89.wav|xˌi t0ˈi2ɲ kˈəː2 bˈaɜt0 ɣˈa6p ɲˈaː2 ɣˈaː . |108
+audio_datasets/chunk_3/108/90.wav|ɲˌyŋ t0ˈaː sˌɛ5 t0ˈiɛɜt0 kˈiɛ6m tˈəː2j zˈaːn vˌaː2 kˈoŋ sˈyɜc hˈəːn . |108
+audio_datasets/chunk_3/108/91.wav|tʃˈi4 bˈa2ŋ kˈe-ɜc hˈɔ4j ŋˈyə2j zˈən ɗˈiə6 fˈyəŋ kˈe-ɜc ɗˌe4 ɗˌeɜn ɗˈɔɜ . |108
+audio_datasets/chunk_3/108/92.wav|vˈiɛ6c kˈɔɜ ŋˈyə2j kˈoɜ vˈəɜn xˌoŋ tʃˈi4 ɗˈɛm lˈaː6j lˈəː6j ˈiɜc tʃˌɔ zˈiɛŋ bˈaː6n . |108
+audio_datasets/chunk_3/108/94.wav|sˌɛ5 fˈaːɜt0 tʃˈiɛ4n mˈo6t0 mˈoɜj kwˈaːn hˈe6 ɗˈa6c bˈiɛ6t0 . |108
+audio_datasets/chunk_3/108/96.wav|ɲˌyŋ kˈo vˌə5n tˈyə2ŋ sˈɛm ŋˈyə2j hˈɔ6k vˈiɛ6t0 ɲˌy fˈiɛn bˈaː4n tʃˈɛ4 hˈəːn . |108
+audio_datasets/chunk_3/108/98.wav|kwˈaː4 ɗˈɔɜ hˈɔ6 sˌɛ5 mˈuəɜn kwˈaːn t0ˈəm . |108
+audio_datasets/chunk_3/108/99.wav|vˌaː2 ɗˈə2w t0ˈy sˈy6 zˈuɜp ɗˈəː5 vˈaː2w t0ˈyəŋ lˈaːj kˌuə4 ŋˈyə2j ˈəɪɜ . |108
+audio_datasets/chunk_3/108/100.wav|tˈem vˈaː2w ɗˈɔɜ , ɲˌy5ŋ ŋˈyə2j hˈɔ6k vˈiɛ6t0 |108
+audio_datasets/chunk_3/108/101.wav|kˈɔɜ sˈu hˈyəɜŋ ŋˈyə5ŋ mˈo6 kˈoɜ vˈəɜn . |108
+audio_datasets/chunk_3/108/102.wav|t0ˌy2 ɗˈɔɜ t0ˈə6p tʃˈuŋ tʃˈuɜ ˈiɜ vˈaː2w sˈy6 hˈyəɜŋ zˈə5n . |108
+audio_datasets/chunk_3/108/104.wav|t0wˈi ɲˈiɛn , sˈy6 t0ˈiɛɜn bˈo6 kˌuə4 bˈaː6n xˌoŋ ɲˈəɜt0 tˈiɛɜt0 . |108
+audio_datasets/chunk_3/108/109.wav|tʃˌa4ŋ hˈaː6n ɲˌy ˌalɪɡzˈandə ɗˈaː6j ɗˈiɜ . |108
+audio_datasets/chunk_3/108/110.wav|hˈɔ6k ɗˌyə6c kˈe-ɜc kwˈaː4n lˈiɜ mˈo6t0 kˈuəɜc zˈaː . |108
+audio_datasets/chunk_3/108/111.wav|t0ˌy2 ɲˈaː2 tʃˈyɜc hˈɔ6k vˈi5 ɗˈaː6j ˈaɹɪstˌɒtəl . |108
+audio_datasets/chunk_3/108/112.wav|ɲˌyŋ ˈoŋ xˌoŋ tʃˈi4 zˈy2ŋ lˈaː6j ˈəː4 ɲˌy5ŋ bˈaː2j hˈɔ6k ˈəɪɜ . |108
+audio_datasets/chunk_3/108/114.wav|t0ˈyəŋ t0ˈy6 , bˈaŋ kˈuɜŋ lˈen t0ˈiɛ2n ɗˈo2ŋ . |108
+audio_datasets/chunk_3/108/115.wav|t0ˈi2m kˈiɛɜm mˈo6t0 ŋˈyə2j hˈyəɜŋ zˈə5n bˈaː6n tˈɛw kˈe-ɜc kˌuə4 zˈiɛŋ hˈɔ6 . |108
+audio_datasets/chunk_3/108/116.wav|ɲˌyŋ ɗˈy2ŋ kwˈen , mˈu6c t0ˈiɛw kˈuəɜj kˈu2ŋ kˌuə4 bˈaː6n . |108
+audio_datasets/chunk_3/108/117.wav|fˌaː4j lˌaː2 tʃˈəː4 nˌen vˈyə6t0 tʃˈo6j hˈəːn sˈɔ vˌəːɜj ŋˈyə2j ˈəɪɜ . |108
+audio_datasets/chunk_3/108/119.wav|hˈa5j ɗˈo6k lˈə6p tʃˈɔŋ t0ˈy zwˈi vˌaː2 ɲˌy5ŋ xˈaː4 nˈaŋ kˌuə4 mˈi2ɲ . |108
+audio_datasets/chunk_3/108/120.wav|tʃˈɔŋ tˈəː2j zˈaːn hˈɔ6k vˈiɛ6t0 , bˈaːɜn hˈɔ6k . |108
+audio_datasets/chunk_3/108/124.wav|bˈa2ŋ bˈyəɜc fˈaːɜ zˈaː xˈɔ4j ɲˌy5ŋ zˈi2 bˈaː4n tˈən ɗˌyə6c hˈɔ6k . |108
+audio_datasets/chunk_3/108/125.wav|vˌaː2 t0ˈy6 fˈaːɜt0 tʃˈiɛ4n tˈɛw hˈyəɜŋ zˈiɛŋ . |108
+audio_datasets/chunk_3/108/126.wav|ɗˈy2ŋ ɗˌe4 mˈi2ɲ bˌi6 ɣˈɔ2 bˈɔɜ tʃˈɔŋ mˈo6t0 xˈuən xˈo4 . |108
+audio_datasets/chunk_3/108/127.wav|mˈo6t0 mˈo hˈi2ɲ sˈa5n kˈɔɜ . |108
+audio_datasets/chunk_3/108/128.wav|hˈaj mˈo6t0 mˈəːɜ kwˈi t0ˈaɜc kˈu4 kˈi4 . |108
+audio_datasets/chunk_3/108/129.wav|zˈyə6 tʃˈen kˈiɛɜn tˈyɜc , kˈiɲ ŋˈiɛ6m t0ˌy2 kˈoɜ vˈəɜn . |108
+audio_datasets/chunk_3/108/130.wav|bˈaː6n xˌoŋ ɣˈə2n ɗˈaː6t0 kˈə1w hˈɔ4j . |108
+audio_datasets/chunk_3/108/133.wav|vˌaː2 zˈo2j t0ˈə2m ɲˈi2n kˌuə4 bˈaː6n zˈo6ŋ mˈəː4 hˈəːn . |108
+audio_datasets/chunk_3/108/134.wav|bˈaː6n sˌɛ5 tʃˈyə4ŋ tˈe-2ɲ tˈɛw kˈe-ɜc ɗˈɔɜ . |108
+audio_datasets/chunk_3/108/135.wav|ɗˈɔɜ tʃˈiɜɲ sˈaːɜc lˌaː2 sˈy6 t0ˈy6 zˈɔ vˌaː2 t0ˈaːɜw bˈaː6w . |108
+audio_datasets/chunk_3/108/136.wav|mˌaː2 bˈaː6n kˈə2n ɗˌe4 fˈaːɜ vˈəː5 kwˈi t0ˈaɜc . |108
+audio_datasets/chunk_3/108/141.wav|mˈo6t0 ŋˈiɛn kˈiɜw nˈo4j t0ˈiɛɜŋ ɗˌaː5 tʃˈi4 zˈaː zˈa2ŋ |108
+audio_datasets/chunk_3/108/143.wav|nˈaːɜw bˈo6 sˌɛ5 tˈaj ɗˈo4j vˈe2 tʃˈəɜt0 . |108
+audio_datasets/chunk_3/108/144.wav|vˌaː2 t0ˈaː6w zˈaː kˌaːɜc kˈeɜt0 nˈoɜj hwˈaː2n t0wˈaː2n mˈəːɜj . |108
+audio_datasets/chunk_3/10/0.wav|vˌaː2 hˈi vˈɔ6ŋ vˈaː2w ɗˌyə6c . |10
+audio_datasets/chunk_3/10/3.wav|ɗˈiɛ2w mˌaː2 hˈə2w hˈeɜt0 mˌɔ6j ŋˈyə2j xˌoŋ ɲˈə6n zˈaː . |10
+audio_datasets/chunk_3/10/4.wav|lˌaː2 lˈuən kˈɔɜ mˈo6t0 kˈe-ɜɲ kˈyə4 tˈyɜ bˈaː . |10
+audio_datasets/chunk_3/10/5.wav|kˈɔɜ tˈe4 lˌaː2 kˈyə4 sˈo4 bˌi6 nˈyɜt0 ˈəː4 fˈiəɜ sˈaw . |10
+audio_datasets/chunk_3/10/7.wav|ɲˌyŋ zˌu2 lˌaː2 zˈi2 tˌi2 nˈɔɜ kˈu5ŋ kˈə2n sˈy6 tˈaːɜw vˈaːɜt0 . |10
+audio_datasets/chunk_3/10/8.wav|vˌaː2 ɣˈaːn zˈaː6 . |10
+audio_datasets/chunk_3/10/9.wav|ɗˈəɪ lˌaː2 ɲˌy5ŋ zˈi2 ŋˈyə2j tˈe-2ɲ kˈoŋ lˈaː2m . |10
+audio_datasets/chunk_3/10/11.wav|ˈalɪks bˈɜːneɪ ɲˈə6n zˈaː zˈa2ŋ . |10
+audio_datasets/chunk_3/10/12.wav|kˈə6w xˌoŋ mˈuəɜn tʃˈəː4 tˈe-2ɲ bˈaːɜc sˈi5 . |10
+audio_datasets/chunk_3/10/14.wav|tˈaj vˈaː2w ɗˈɔɜ , |10
+audio_datasets/chunk_3/10/15.wav|sˈaw sˈaw sˌɛ5 t0ˈi2m hˈiɛ4w hˈe-2ɲ tʃˈi2ɲ kˌuə4 bˈɪl ɡˈeɪts . |10
+audio_datasets/chunk_3/10/16.wav|t0ˌy2 xˌi lˌaː2 mˈo6t0 ɗˈyəɜ tʃˈɛ4 ɲˌy mˈi2ɲ . |10
+audio_datasets/chunk_3/10/17.wav|tʃˈəː4 tˈe-2ɲ mˈo6t0 tʃˈɔŋ ɲˌy5ŋ ŋˈyə2j zˈa2w ɲˈəɜt0 tˈeɜ zˈəːɜj . |10
+audio_datasets/chunk_3/10/18.wav|kˈə6w kwˈiɛɜt0 t0ˈəm ɗˈi zˈu lˈi6c xˈaɜp ɗˈəɜt0 nˈyəɜc . |10
+audio_datasets/chunk_3/10/20.wav|sˈaw xˌi zˈə2n |10
+audio_datasets/chunk_3/10/21.wav|nˌeɜw bˈaː6n ɗˌyə6c t0ˈiɛ2n tˈyə4ŋ tʃˈɔŋ tʃˈyəŋ tʃˈi2ɲ , hˈa5j tʃˈɔ6n zˈaːɜ ɗˈuɜŋ . |10
+audio_datasets/chunk_3/10/23.wav|kˈɛ4 xˈu2ŋ ɗˈi lˈoɜj xˈaːɜc . |10
+audio_datasets/chunk_3/10/24.wav|lˌaː2 t0ˈyəŋ tˈuə6c kˌuə4 bˈe tʃˈiɜn . |10
+audio_datasets/chunk_3/10/29.wav|kˈɛ4 xˈu2ŋ ɗˈi lˈoɜj xˈaːɜc |10
+audio_datasets/chunk_3/10/31.wav|sˈaw ɗˈəɪ , fˈəʊnəʊz sˈin tʃˈiə sˈɛ4 kˈu2ŋ bˈaː6n . |10
+audio_datasets/chunk_3/10/32.wav|nˈo6j zˈuŋ tˈyɜ ɲˈəɜt0 . |10
+audio_datasets/chunk_3/10/33.wav|kˈiɛn tʃˈi2 lˌaː2 ˈiɛɜw t0ˈoɜ ɲˈəɜt0 kwˈaːɜn . |10
+audio_datasets/chunk_3/10/34.wav|kˈiɛɜn t0ˈaː6w sˈy6 ŋˈiɛ6p kˌuə4 ɲˌy5ŋ ŋˈyə2j tˈe-2ɲ kˈoŋ ɲˈəɜt0 . |10
+audio_datasets/chunk_3/10/35.wav|bˈaː6n mˈuəɜn bˈiɛɜt0 bˈiɜ mˈə6t0 ɗˌe4 kˈɔɜ ɗˌyə6c bˈyəɜc t0ˈiɛɜn ɗˈo6t0 fˈaːɜ . |10
+audio_datasets/chunk_3/10/37.wav|ŋˈɛ kˈɔɜ vˈɛ4 sˈaːw zˈo6ŋ . |10
+audio_datasets/chunk_3/10/38.wav|ɲˌyŋ sˈy6 kˈiɛn tʃˈi2 tˈy6c sˈy6 zˈəɜt0 kwˈaːn tʃˈɔ6ŋ . |10
+audio_datasets/chunk_3/10/40.wav|kwˈaː kwˈaːɜ tʃˈi2ɲ fˈɔ4ŋ vˈəɜn kˌuə4 ˈalɪks bɪnˈaɪn . |10
+audio_datasets/chunk_3/10/43.wav|tʃˈuɜŋ t0ˈaː xˌoŋ fˌaː4j kwˈiɛɜt0 t0ˈəm tʃˈiɛɜn ɗˈəɜw . |10
+audio_datasets/chunk_3/10/44.wav|ɗˌe4 ɗˈi ɗˌeɜn tˈe-2ɲ kˈoŋ . |10
+audio_datasets/chunk_3/10/45.wav|t0wˈi ɲˈiɛn , ɗˈiɛ2w kwˈaːn tʃˈɔ6ŋ lˌaː2 fˌaː4j |10
+audio_datasets/chunk_3/10/46.wav|kˈiɛn tʃˈi2 tˈy6c hˈiɛ6n ɗˈuɜŋ kˈe-ɜc . |10
+audio_datasets/chunk_3/10/47.wav|bˈen ˈaːj lˌaː2 mˈo6t0 ŋˈyə2j hˈəm mˈo6 kˈu2ŋ ɲˈi6p ? |10
+audio_datasets/chunk_3/10/50.wav|vˌaː2 bˌi6 ˈaːɜm ˈe-4ɲ bˌəː4j vˈiɛ6c fˈɔ4ŋ vˈəɜn ˈe-ɲ t0ˌy2 zˈəɜt0 sˈəːɜm . |10
+audio_datasets/chunk_3/10/51.wav|sˈaw xˌi ɣˈa6p ɗˌyə6c fˈɛɹɪs , |10
+audio_datasets/chunk_3/10/52.wav|ɗˈaː6j mˈu6c hˈo6j ŋˈi6 |10
+audio_datasets/chunk_3/10/54.wav|tʃˈɔŋ mˈo6t0 kˈuə6c fˈɔ4ŋ vˈəɜn . ɲˌyŋ ... |10
+audio_datasets/chunk_3/10/55.wav|mˈaː5j vˌə5n xˌoŋ tˈəɪɜ t0ˈəm hˈəːj . |10
+audio_datasets/chunk_3/10/58.wav|kˈə6w vˌə5n zˈy5 ɗˌyə6c t0ˈiɲ tˈə2n lˈaː6c kwˈaːn vˌaː2 vˈuj vˈɛ4 . |10
+audio_datasets/chunk_3/10/59.wav|kˈuəɜj kˈu2ŋ , fˈɛɹɪs ɗˈo2ŋ ˈiɜ ɣˈa6p mˈa6t0 . |10
+audio_datasets/chunk_3/10/60.wav|ˈe-ɲ ɗˌaː5 mˈaːŋ ɗˌeɜn tʃˈəː6 bˈe tʃˈiɜn . |10
+audio_datasets/chunk_3/10/61.wav|mˈo6t0 bˈaː2j hˈɔ6k kwˈaːn tʃˈɔ6ŋ . |10
+audio_datasets/chunk_3/10/62.wav|hˈa5j kˈiɛn tʃˈi2 tˈɛw kˈe-ɜc ɗˈuɜŋ ɗˈaɜn . |10
+audio_datasets/chunk_3/10/63.wav|fˈɛɹɪs zˈaː4j tˈiɜc . |10
+audio_datasets/chunk_3/10/69.wav|vˌaː2 mˈu5 ɣˈɛɜ kwˈaː . |10
+audio_datasets/chunk_3/10/70.wav|ŋwˈaː2j tʃˈyə2ŋ ˈe-ɲ , xˌoŋ kˈɔɜ ˈaːj lˈaː2m vˈəɪ6 . |10
+audio_datasets/chunk_3/10/72.wav|fˈeəɹɪs ɗˌaː5 ɗˈaːɜp tʃwˈiɛɜn bˈaj bˈa2ŋ ŋˈaː2n sˈaːɜŋ ɗˈo6 . |10
+audio_datasets/chunk_3/10/74.wav|sˈy kˈi2 |10
+audio_datasets/chunk_3/10/75.wav|ˈe-ɲ kˈɔɜ ɗˌyə6c kˈoŋ vˈiɛ6c mˈəː4 ˈyɜ . |10
+audio_datasets/chunk_3/10/77.wav|bˈaː6n ɗˈy2ŋ ɲˈə2m lˈə5n zˈy5 t0ˈiɜɲ . |10
+audio_datasets/chunk_3/10/78.wav|kˈiɛn tʃˈi2 vˌəːɜj sˈy6 tˈo lˈo6 . |10
+audio_datasets/chunk_3/10/82.wav|nˈo6j zˈuŋ tˈyɜ hˈaːj . |10
+audio_datasets/chunk_3/10/85.wav|tʃˈi4 xˌi kˈɔɜ ɗˌyə6c hˈəː6p ɗˈo2ŋ swˈəɜt0 bˈaː4n sˈe-ɜc . |10
+audio_datasets/chunk_3/10/87.wav|ɣˈa6p ɗˌyə6c ŋˈyə2j ɗˌaː5 tʃwˈiɛ2n kˈaː4m hˈyɜŋ tʃˌɔ ˈe-ɲ ŋˈaj t0ˌy2 ɗˈə2w . |10
+audio_datasets/chunk_3/10/88.wav|bˈɪl ɡˈeɪts |10
+audio_datasets/chunk_3/10/92.wav|ˈɛməː2ˈitˈeˈɛɜs |10
+audio_datasets/chunk_3/10/95.wav|ɗˌaː5 lˈiɛn hˈe6 ɗˌe4 bˈaːɜn fˈə2n mˈe2m tʃˌɔ tʃˈiɛɜc mˈaɜj . |10
+audio_datasets/chunk_3/10/97.wav|kˈaː4 hˈaːj ŋˈyə2j ɗˈe2w xˌoŋ t0ˈy6 t0ˈin ɗˌe4 t0ˈiɛɜp t0ˈu6c tˈɛw ɗˈuə4j . |10
+audio_datasets/chunk_3/10/98.wav|ɲˌyŋ kˈuəɜj kˈu2ŋ , ɡˈeɪts ɗˌaː5 zˈaː4j kwˈiɛɜt0 . |10
+audio_datasets/chunk_3/10/100.wav|vˌaː2 tˈy6c hˈi2ɲ kˈuə6c ɣˈɔ6j . |10
+audio_datasets/chunk_3/10/101.wav|nˌeɜw xˌoŋ kˈi2m nˈɛɜn ɲˌy5ŋ ŋˈi ŋˈəː2 kˌuə4 bˈaː4n tˈən . |10
+audio_datasets/chunk_3/10/102.wav|kˈɔɜ lˈɛ5 ˈoŋ ɗˌaː5 xˌoŋ tʃˈəː4 tˈe-2ɲ t0ˈi4 fˈuɜ ɲˌy hˈom nˈaj . |10
+audio_datasets/chunk_3/10/105.wav|swˈiɛn sˈuəɜŋ kˈuəɜn sˈe-ɜc . |10
+audio_datasets/chunk_3/10/106.wav|tʃˈuɜŋ t0ˈaː kˈu5ŋ sˌɛ5 bˈaɜt0 ɣˈa6p hˈi2ɲ ˈe-4ɲ mˈo6t0 bˈəː2 nˈa2j . |10
+audio_datasets/chunk_3/10/107.wav|ɲˈa4j kˈaː4m vˌaː2 ɲˈiɛ2w lˈɔ lˈaɜŋ . |10
+audio_datasets/chunk_3/10/108.wav|t0ˌy2 tʃwˈiɛ6n twˈiɛɜt0 fˈu6c tʃˈaː mˈɛ6 |10
+audio_datasets/chunk_3/10/112.wav|ɗˌe4 nˈɔɜj tʃwˈiɛ6n vˌəːɜj ɲˌy5ŋ ŋˈyə2j mˈi2ɲ bˈiɛɜt0 . |10
+audio_datasets/chunk_3/10/113.wav|ŋˈyə5ŋ mˈo6 mˌaː2 xˌoŋ kˈaŋ tˈa4ŋ . |10
+audio_datasets/chunk_3/10/115.wav|ɲˌyŋ bˈəɜt0 kˈyɜ xˌi nˈaː2w twˈaːɜt0 xˈɔ4j vˈu2ŋ ˈaːn t0wˈaː2n . |10
+audio_datasets/chunk_3/10/116.wav|fˈən tˈyə4ŋ lˌaː2 kˈɔɜ tˈə6t0 . |10
+audio_datasets/chunk_3/10/117.wav|kˈeɜt0 kwˈaː4 lˌaː2 . tʃˈuɜŋ t0ˈaː tˈəɪɜ . |10
+audio_datasets/chunk_3/10/118.wav|kˌaːɜc zˈaː4 t0ˌy2 mˈo6t0 tˈe-ɲ nˈiɛn mˈyə2j t0ˈaːɜm t0ˈuə4j . |10
+audio_datasets/chunk_3/10/119.wav|ɲˈiɛ2w lˈɔ ˈə1w , tʃˈəː4 tˈe-2ɲ mˈo6t0 tʃˈaː2ŋ tʃˈaːj hˈaːj mˈyəj lˈam t0ˈuə4j . |10
+audio_datasets/chunk_3/10/124.wav|nˌeɜw xˌoŋ tˈɛw ɗˈuə4j tˈe-2ɲ kˈoŋ . |10
+audio_datasets/chunk_3/10/135.wav|mˈo6t0 ɲˈaː2 ɗˈiɛ2w hˈe-2ɲ ɗˌaː5 tʃˌɔ tʃˈɛ2w t0ˈəɜm ˈaːɜp fˈiɛɜt0 . |10
+audio_datasets/chunk_3/10/136.wav|kˈɔɜ nˈo6j zˈuŋ . |10
+audio_datasets/chunk_3/10/137.wav|bˈaː6n xˌoŋ tˈe4 ˈaməzən t0ˈoɜt0 hˈəːn ˈaməzən . |10
+audio_datasets/chunk_3/10/138.wav|sˈaw xˌi t0ˈəm lˈiɜ vˌaː2 tʃˈiɛɜn lˈyə6c kˌuə4 hˈɔ6 tˈaj ɗˈo4j . |10
+audio_datasets/chunk_3/10/140.wav|tʃˈuɜŋ t0ˈaː xˌoŋ tˈe4 tʃˈi4 sˈaːw tʃˈɛɜp ŋˈyə2j xˈaːɜc . |10
+audio_datasets/chunk_3/10/141.wav|tʃˈuɜŋ t0ˈaː sˌɛ5 tʃˈi4 tˈy6c sˈy6 tˈe-2ɲ kˈoŋ tʃˈɔŋ kˈiɲ zwˈe-ɲ . |10
+audio_datasets/chunk_3/10/142.wav|xˌi t0ˈi2m zˈaː kˈe-ɜc ɗˌe4 lˈaː6j tʃˈiɜɲ mˈi2ɲ . |10
+audio_datasets/chunk_3/10/143.wav|xˌi ˈe-4ɲ hˈyə4ŋ vˈe2 t0ˈi2ɲ ˈiɛw kˌuə4 mˈo6t0 ŋˈyə2j ɗˈaː2n ˈoŋ , tʃˈuɜŋ t0ˈaː kˈɔɜ tˈe4 t0ˈi2m hˈiɛ4w t0ˈi2ɲ ˈiɛw kˌuə4 mˈo6t0 ŋˈyə2j ɗˈaː2n ˈoŋ . |10
+audio_datasets/chunk_3/10/146.wav|ˈe-ɲ ɲˈə6n zˈaː zˈa2ŋ ɗˈi6ɲ ŋˈiə5 tˈe-2ɲ kˈoŋ kˌuə4 hˈɔ6 zˈəɜt0 xˈaːɜc . |10
+audio_datasets/chunk_3/10/147.wav|kˈu2ŋ ɲˈaw tˈe-2ɲ lˈə6p ˈapəl . |10
+audio_datasets/chunk_3/110/0.wav|ɗˈiɛ2w zˈi2 lˈaː2m tʃˌɔ ɲˌy5ŋ ŋˈyə2j zˈa2w xˈaɜc ? |110
+audio_datasets/chunk_3/110/1.wav|bˈiɛ6t0 sˈɔ vˌəːɜj fˈə2n kˌɔ2n lˈaː6j kˌuə4 tˈeɜ zˈəːɜj . |110
+audio_datasets/chunk_3/110/2.wav|kˈɔɜ ɲˈiɛ2w ˈiɜ kˈiɛɜn xˈaːɜc ɲˈaw ɗˌe4 tʃˈaː4 lˈəː2j tʃˌɔ kˈə1w hˈɔ4j nˈa2j . |110
+audio_datasets/chunk_3/110/3.wav|ɲˌyŋ t0ˈaːɜc zˈaː4 t0ˈin zˈa2ŋ |110
+audio_datasets/chunk_3/110/4.wav|sˈy6 xˈaːɜc bˈiɛ6t0 kˈəː bˈaː4n zˈyə5 ŋˈyə2j zˈa2w . |110
+audio_datasets/chunk_3/110/5.wav|vˌaː2 fˈə2n kˌɔ2n lˈaː6j kˌuə4 tˈeɜ zˈəːɜj . |110
+audio_datasets/chunk_3/110/6.wav|lˌaː2 kˈe-ɜc hˈɔ6 zˈaː4j kwˈiɛɜt0 ɲˌy5ŋ vˈəɜn ɗˈe2 . |110
+audio_datasets/chunk_3/110/8.wav|tˈaj vˌi2 tʃˈoɜn tʃˈe-ɜɲ ɲˌy5ŋ ɗˈaɜc zˈoɜj . |110
+audio_datasets/chunk_3/110/9.wav|hwˌa6c ɗˈoj xˌi lˌaː2 tˈəɜt0 bˈaː6j vˈe2 mˈa6t0 t0ˈiɛ2n bˈaː6c . |110
+audio_datasets/chunk_3/110/10.wav|ɲˌy5ŋ ŋˈyə2j zˈa2w ɗˈɔɜn ɲˈə6n tʃˈuɜŋ . |110
+audio_datasets/chunk_3/110/11.wav|vˌi2 tʃˈuɜŋ lˌaː2 kˈəː hˈo6j ɗˌe4 tʃˈəː4 nˌen tˈoŋ mˈiɲ hˈəːn . |110
+audio_datasets/chunk_3/110/16.wav|nˈəŋ kˈaːw tʃˈi4 sˈoɜ ˌikwˈi t0ˈaː2j tʃˈiɜɲ . |110
+audio_datasets/chunk_3/110/22.wav|sˈy4 zˈu6ŋ ɗwˈaː2n bˈəɪ5 t0ˈaː2j tʃˈiɜɲ . |110
+audio_datasets/chunk_3/110/23.wav|vˌaː2 kˈaː4j tˈiɛ6n tˈoŋ t0ˈin t0ˈaː2j tʃˈiɜɲ . |110
+audio_datasets/chunk_3/110/24.wav|ɲˌy5ŋ bˈaː2j hˈɔ6k tʃˈɔŋ t0ˈy2ŋ tʃˈyəŋ kˌuə4 kˈuəɜn sˈe-ɜc . |110
+audio_datasets/chunk_3/110/28.wav|ɗˈyə zˈaː ɲˌy5ŋ kwˈiɛɜt0 ɗˈi6ɲ t0ˈiɜc lwˈi5 vˌaː2 ɗˈə2w t0ˈy . |110
+audio_datasets/chunk_3/110/30.wav|bˈo6 sˈe-ɜc zˈa6j kˌɔn lˈaː2m zˈa2w . |110
+audio_datasets/chunk_3/110/31.wav|bˈaːw ɣˈo2m mˈyə2j bˈaː kˈuəɜn sˈe-ɜc vˈe2 kwˈaː4n lˈiɜ t0ˈaː2j tʃˈiɜɲ . |110
+audio_datasets/chunk_3/110/32.wav|kˈaːɜ ɲˈən kˌuə4 ɹˈɒbət tˈe . kˌɪjəsˈaki . |110
+audio_datasets/chunk_3/110/33.wav|ɗˈəɪ lˌaː2 bˈo6 sˈe-ɜc kˈiɲ ɗˈiɛ4n vˈe2 kˈe-ɜc ɲˈi2n ɲˈə6n |110
+audio_datasets/chunk_3/110/34.wav|zˈu2ŋ t0ˈiɛ2n , kˈiɛɜm t0ˈiɛ2n vˌaː2 zˈuɜp tʃˈuɜŋ t0ˈaː . |110
+audio_datasets/chunk_3/110/37.wav|kwˈaː bˈaː nˈo6j zˈuŋ ɗˈa6c sˈaɜc kˌuə4 kˈuəɜn sˈe-ɜc . |110
+audio_datasets/chunk_3/110/39.wav|nˈəŋ kˈaːw tʃˈi4 sˈoɜ ˌikwˈi t0ˈaː2j tʃˈiɜɲ . |110
+audio_datasets/chunk_3/110/41.wav|ˌikwˈi t0ˈaː2j tʃˈiɲ sˈoɜ mˈo6t0 . |110
+audio_datasets/chunk_3/110/43.wav|ɗˈaː sˈoɜ mˌɔ6j ŋˈyə2j ɗˈe2w kˈɔɜ xˈaː4 nˈaŋ kˈiɛɜm zˈaː t0ˈiɛ2n . |110
+audio_datasets/chunk_3/110/44.wav|vˌaː2 ɗˈiɛ2w ɗˈɔɜ kˈɔɜ ŋˈiə5 lˌaː2 hˈɔ6 |110
+audio_datasets/chunk_3/110/45.wav|hˈɔ6 ɗˈe2w sˈəː4 hˈi5w ˌikwˈi t0ˈaː2j tʃˈiɜɲ sˈoɜ mˈo6t0 . |110
+audio_datasets/chunk_3/110/46.wav|ˈəː4 mˈo6t0 mˈyɜc ɗˈo6 nˈaː2w ɗˈɔɜ . |110
+audio_datasets/chunk_3/110/48.wav|ˌikwˈi t0ˈaː2j tʃˈiɜɲ sˈoɜ mˈo6t0 kˌuə4 bˈaː6n kˈaː2ŋ kˈaːw . |110
+audio_datasets/chunk_3/110/50.wav|sˌɛ5 kˈɔɜ ˌikwˈi t0ˈaː2j tʃˈiɜɲ lwˈaː6j nˈa2j . |110
+audio_datasets/chunk_3/110/51.wav|kˈaːw hˈəːn ɲˌy5ŋ ŋˈyə2j tʃˈi4 kˈiɛɜm ɗˌyə6c vˈaː2j tʃˈu6c ŋˈaː2n ɗˈo2 . |110
+audio_datasets/chunk_3/110/53.wav|zˈəɜt0 xˈiɛɜn mˌɔ6j ŋˈyə2j xˌoŋ kˈiɛɜm ɗˌyə6c ɲˈiɛ2w t0ˈiɛ2n . |110
+audio_datasets/chunk_3/110/54.wav|lˌaː2 zˈɔ kwˈaːɜ tʃˈoŋ tʃˈəː2 vˈaː2w vˈiɛ6c ŋˈo2j mˈaːɜt0 . |110
+audio_datasets/chunk_3/110/56.wav|ɲˈiɛ2w ŋˈyə2j mˈəː ˈyəɜc ɗˌyə6c tʃˈu6ŋ vˈɛɜ sˈoɜ ɗˈo6k ɗˈaɜt0 . |110
+audio_datasets/chunk_3/110/57.wav|hwˌa6c ˈyɜŋ hˈyə4ŋ tˈyə2 kˈeɜ t0ˌy2 zˈaː ɗˈi2ɲ . |110
+audio_datasets/chunk_3/110/58.wav|mˌaː2 xˌoŋ bˈiɛɜt0 zˈa2ŋ ɲˌy5ŋ ɗˈo2ŋ t0ˈiɛ2n nˈa2j |110
+audio_datasets/chunk_3/110/59.wav|sˌɛ5 ɣˈəɪ hwˈaː2 ɲˈiɛ2w hˈe-6ɲ fˈuɜc . |110
+audio_datasets/chunk_3/110/62.wav|sˈaːw tʃˌɔ fˌaː4j . |110
+audio_datasets/chunk_3/110/63.wav|kˌɔ2n lˈiɜ zˈɔ tˈyɜ hˈaːj , xˈiɛɜn ɲˈiɛ2w ŋˈyə2j vˌə5n ŋˈɛ2w . |110
+audio_datasets/chunk_3/110/66.wav|vˌaː2 zˈaː4j kwˈiɛɜt0 ɲˌy5ŋ zˈaɜc zˈoɜj bˈaɜt0 bˈuə6c kˌuə4 vˈiɛ6c lˈaː2m zˈa2w . |110
+audio_datasets/chunk_3/110/68.wav|bˈiɜ kwˈiɛɜt0 kˌuə4 sˈy6 zˈa2w kˈɔɜ |110
+audio_datasets/chunk_3/110/70.wav|mˌo5j ŋˈyə2j tʃˈɔŋ ɗˈəː2j ɗˈe2w ɣˈa6p fˌaː4j kˈy6c kˈi2 ɲˈiɛ2w zˈaɜc zˈoɜj xˈaːɜc ɲˈaw . |110
+audio_datasets/chunk_3/110/71.wav|vˌaː2 hˈɔ6 sˌɛ5 tʃˈaː4 t0ˈiɛ2n . |110
+audio_datasets/chunk_3/110/72.wav|tʃˌɔ ɲˌy5ŋ ŋˈyə2j kˈɔɜ nˈaŋ lˈy6c zˈaː4j kwˈiɛɜt0 ɲˌy5ŋ zˈaɜc zˈoɜj ɗˈɔɜ . |110
+audio_datasets/chunk_3/110/75.wav|ɗˌe4 ɗˈo6j lˈəɪɜ ɲˌy5ŋ bˈyə5 ŋˈɔn . |110
+audio_datasets/chunk_3/110/77.wav|kˈɔɜ hˈaː2ŋ vˈa6n . |110
+audio_datasets/chunk_3/110/78.wav|kˈe-ɜc ɗˌe4 zˈaː4j kwˈiɛɜt0 kˌaːɜc zˈoɜj , vˌaː2 vˌi2 vˈəɪ6 . |110
+audio_datasets/chunk_3/110/79.wav|kˈu5ŋ kˈɔɜ hˈaː2ŋ vˈaː6n kˈe-ɜc ɗˌe4 kˈiɛɜm t0ˈiɛ2n tʃˈen ɗˈəː2j . |110
+audio_datasets/chunk_3/110/82.wav|mˈəːɜj kˈiɛɜm ɗˌyə6c ɲˈiɛ2w t0ˈiɛ2n tˈoj . |110
+audio_datasets/chunk_3/110/83.wav|ɗˈɔɜ tʃˈiɜɲ lˌaː2 bˈaː4n tʃˈəɜt0 kˌuə4 tˈi6 tʃˈyə2ŋ . |110
+audio_datasets/chunk_3/110/84.wav|kˌaːɜc zwˈe-ɲ ŋˈiɛ6p vˌaː2 kˈaːɜ ɲˈən sˈaːɜŋ t0ˈaː6w |110
+audio_datasets/chunk_3/110/85.wav|kˌaːɜc sˈaː4n fˈə4m vˌaː2 zˈi6c vˈu6 ɗˌe4 zˈaː4j kwˈiɛɜt0 . |110
+audio_datasets/chunk_3/110/87.wav|hˈɔ6 kˈɔɜ tˈe4 t0ˈiɜɲ zˈaːɜ kˈaːw hwˌa6c tˈəɜp . |110
+audio_datasets/chunk_3/110/89.wav|st0ˈaj tjˈuːnd ! |110
+audio_datasets/chunk_3/110/90.wav|xˌoŋ kˈɔɜ tʃˈo5 tʃˌɔ ɲˌy5ŋ kˈɛ4 ŋˈo2j mˈaːɜt0 ˈan bˈaːɜt0 vˈaː2ŋ . |110
+audio_datasets/chunk_3/110/92.wav|ɗˌe4 bˈaɜt0 ɗˈə2w kˈiɛɜm t0ˈiɛ2n ɲˈaː . |110
+audio_datasets/chunk_3/110/93.wav|nˈo6j zˈuŋ tˈyɜ hˈaːj . |110
+audio_datasets/chunk_3/110/94.wav|ˌikwˈi t0ˈaː2j tʃˈiɜɲ tˈyɜ hˈaːj . |110
+audio_datasets/chunk_3/110/95.wav|bˈaː4w vˈe6 t0ˈiɛ2n kˌuə4 bˈaː6n . |110
+audio_datasets/chunk_3/110/96.wav|ɗˌe4 nˈɔɜj vˈe2 t0ˈə2m kwˈaːn tʃˈɔ6ŋ kˌuə4 vˈiɛ6c . |110
+audio_datasets/chunk_3/110/98.wav|t0ˈaːɜc zˈaː4 sˈy4 zˈu6ŋ mˈo6t0 hˈi2ɲ ˈe-4ɲ ˈə4n zˈu6 . |110
+audio_datasets/chunk_3/110/100.wav|kˌuə4 hˈɔ6 xˈɔ4j sˈy6 fˈaːɜ hwˈaː6j kˌuə4 sˈə1w bˈɔ6 . |110
+audio_datasets/chunk_3/110/101.wav|tʃˈi2m tʃˈɔɜk vˌaː2 tˈɔ4 . |110
+audio_datasets/chunk_3/110/102.wav|sˈə1w bˈɔ6 t0ˈyə6ŋ tʃˈyŋ tʃˌɔ ɲˌy5ŋ kˈɛ4 tˈu2 t0ˈaː2j tʃˈiɜɲ . |110
+audio_datasets/chunk_3/110/103.wav|ŋˈaː2n ɲˈiɛn tʃˈiɛɜm ɗˈaː6t0 t0ˈiɛ2n kˌuə4 tʃˈuɜŋ t0ˈaː . |110
+audio_datasets/chunk_3/110/104.wav|ɲˌy kˈɛ4 kˈyəɜp hwˌa6c t0ˈen lˈyə2 ɗˈaː4w . |110
+audio_datasets/chunk_3/110/105.wav|kˌɔn tʃˈim tʃˈɔɜk vˌaː2 tˈɔ4 . |110
+audio_datasets/chunk_3/110/107.wav|vˌaː2 ŋwˈi hˈiɛ4m hˈəːn . ɗˈyɜc ŋwˈi tʃˈaːŋ zˈyəɜj lˈəːɜp |110
+audio_datasets/chunk_3/110/108.wav|bˈɔ4 lˌaː2 ɲˌy5ŋ kˈaːɜ ɲˈən vˌaː2 t0ˈo4 tʃˈyɜc mˌaː2 tʃˈuɜŋ t0ˈaː . |110
+audio_datasets/chunk_3/110/111.wav|zˈy5 t0ˈiɛ2n tʃˈɔŋ t0ˈuɜj sˈaːw tʃˌɔ xˈɔ4j tˈə2m hˈu6t0 . |110
+audio_datasets/chunk_3/110/113.wav|tʃˈiɜɲ vˌi2 vˈəɪ6 , t0ˈəɜt0 kˈaː4 ɗˈa6c bˈiɛ6t0 . |110
+audio_datasets/chunk_3/110/115.wav|ɗˌe4 ɗˈɔ lˈyə2ŋ fˈə2n tʃˈam tˈu ɲˈə6p mˌaː2 mˈo6t0 kˈaːɜ ɲˈən zˈy5 lˈaː6j . |110
+audio_datasets/chunk_3/110/117.wav|vˈiɜ zˈu6 , hˈaːj ŋˈyə2j kˈu2ŋ bˈaː2n . |110
+audio_datasets/chunk_3/110/119.wav|ɲˌyŋ , ŋˈyə2j tʃˈi4 fˌaː4j tʃˈaː4 mˈyə2j lˈam fˈə2n tʃˈam twˈeɜ . |110
+audio_datasets/chunk_3/110/120.wav|sˌɛ5 kˈɔɜ ˌikwˈi t0ˈaː2j tʃˈiɜɲ tˈyɜ hˈaːj . |110
+audio_datasets/chunk_3/110/121.wav|kˈaːw hˈəːn ŋˈyə2j fˌaː4j tʃˈaː4 bˈaː mˈyəj lˈam fˈə2n tʃˈam twˈeɜ . |110
+audio_datasets/chunk_3/110/122.wav|ɗˌe4 nˈəŋ kˈaːw zˈi6 sˈo4 ˌikwˈi t0ˈaː2j tʃˈiɜɲ tˈyɜ hˈaːj . |110
+audio_datasets/chunk_3/110/124.wav|kˌaːɜc tˈu2 t0ˈaː2j tʃˈiɜɲ ɗˌaːŋ ɲˈə2m ɲˈɛ2 mˈɔɜk t0ˈuɜj bˈa2ŋ . |110
+audio_datasets/chunk_3/110/125.wav|ɗˈə2w t0ˈiɛn , zˌu2 ɗˈɔɜŋ twˈeɜ lˌaː2 kˈə2n tˈiɛɜt0 . |110
+audio_datasets/chunk_3/110/126.wav|ɲˌyŋ fˌaː4j ɣˈaɜn kwˈaːɜ ɲˈiɛ2w lwˈaː6j twˈeɜ . |110
+audio_datasets/chunk_3/110/127.wav|kˈɔɜ tˈe4 sˌɛ5 xˈiɛɜn bˈaː6n xˌoŋ bˈaːw zˈəː2 zˈa2w kˈɔɜ ɗˌyə6c . |110
+audio_datasets/chunk_3/110/132.wav|vˌaː2 lˈəː6j ɲwˈə6n t0ˌy2 kˌaːɜc zˈe-ɲ mˈu6c ɗˈə2w t0ˈy . |110
+audio_datasets/chunk_3/110/134.wav|kˈɛ4 tˈu t0ˈaː2j tʃˈiɜɲ fˈo4 bˈiɛɜn tˈyɜ hˈaːj . |110
+audio_datasets/chunk_3/110/135.wav|lˌaː2 kˌaːɜc ɲˈən vˈiɛn mˈu2j zˈəːɜj . |110
+audio_datasets/chunk_3/110/136.wav|hˈɔ6 kˈoɜ ɣˈaɜŋ bˈaːɜn kˌaːɜc lwˈaː6j bˈəɜt0 ɗˈo6ŋ sˈaː4n vˌaː2 tʃˈyɜŋ xwˈə4n . |110
+audio_datasets/chunk_3/110/141.wav|hˈɔ6 t0ˈi2m kˈe-ɜc zˈu6 zˈo5 bˈaː6n . |110
+audio_datasets/chunk_3/110/144.wav|kˈeɜt0 kwˈaː4 lˌaː2 t0ˈiɛ2n tʃˈɔŋ t0ˈuɜj kˌuə4 bˈaː6n mˈəɜt0 ɗˈi . |110
+audio_datasets/chunk_3/110/145.wav|kˌɔ2n kˌaːɜc zwˈe-ɲ ŋˈiɛ6p tˌi2 kˈiɛɜm ɗˌyə6c bˈo6n t0ˈiɛ2n tʃˈen sˈy6 . |110
+audio_datasets/chunk_3/110/147.wav|nˈo6j zˈuŋ tˈyɜ bˈaː . |110
+audio_datasets/chunk_3/112/0.wav|vˌəːɜj ɲˌy5ŋ ɗˈiɛ2w ɗˈi2ɲ zˈi6 ɲˈəɜt0 . |112
+audio_datasets/chunk_3/112/2.wav|ˈiɛw tˈyəŋ bˈaː4n tˈən vˌaː2 sˈoɜŋ hˈe-6ɲ fˈuɜc mˌo5j ŋˈa2j . |112
+audio_datasets/chunk_3/112/5.wav|nˈo6j zˈuŋ tˈyɜ ɲˈəɜt0 , hˈa5j tʃˈəɜp ɲˈə6n vˌaː2 tʃˈən tʃˈɔ6ŋ tʃˈiɜɲ mˈi2ɲ . |112
+audio_datasets/chunk_3/112/8.wav|tʃˌa4ŋ lˌuɜc nˈaː2w t0ˈoj tˈəɪɜ t0ˈy6 t0ˈin kˈaː4 . |112
+audio_datasets/chunk_3/112/9.wav|sˈy6 t0ˈo2n t0ˈaː6j kˌuə4 t0ˈoj tˈə6t0 vˈo ŋˈiə5 . |112
+audio_datasets/chunk_3/112/10.wav|t0ˈoj tʃˌa4ŋ zˈɔ4j zˈaːŋ sˈiɲ ɗˈɛ6p ɲˌy ˈaːj ɗˈɔɜ . |112
+audio_datasets/chunk_3/112/12.wav|sˌɛ5 tʃˌa4ŋ ˈaːj ŋˈan kˈəɜm ɲˌy5ŋ |112
+audio_datasets/chunk_3/112/15.wav|ɗˌaːŋ bˈaːɜm ɗˈəɪ2 vˈaː2w kˈəːn bˈaː5w . |112
+audio_datasets/chunk_3/112/17.wav|sˈy6 sˈoɜŋ bˈoɜn t0wˈiɛ6t0 vˈəː2j vˌaː2 kwˈiɜ zˈaːɜ . |112
+audio_datasets/chunk_3/112/20.wav|xˌi ɗˌeɜn vˌəːɜj kˈuə6c sˈoɜŋ nˈa2j . |112
+audio_datasets/chunk_3/112/21.wav|ɗˈoj xˌi bˈaː6n tʃˈi4 t0ˈə6p tʃˈuŋ |112
+audio_datasets/chunk_3/112/25.wav|vˈiɛ6c kˈə2n lˈaː2m lˌaː2 ŋˈyŋ sˈɔ sˈe-ɜɲ bˈaː4n tˈən vˌəːɜj ŋˈyə2j xˈaːɜc . |112
+audio_datasets/chunk_3/112/26.wav|t0ˈaː6m bˈiɛ6t0 ɲˌy5ŋ zˈɔ2ŋ swˈi ŋˈi5 t0ˈiɛw kˈy6c . |112
+audio_datasets/chunk_3/112/29.wav|ɗˈi tʃˈen kˌɔn ɗˈyə2ŋ sˈyɜ mˈe6ɲ kˌuə4 tʃˈiɜɲ mˈi2ɲ . |112
+audio_datasets/chunk_3/112/30.wav|nˈo6j zˈuŋ tˈyɜ hˈaːj |112
+audio_datasets/chunk_3/112/31.wav|ɲˌy5ŋ fˈyəŋ fˈaːɜp tʃˈyə5 lˈe-2ɲ t0ˈəm tʃˈiɜ . |112
+audio_datasets/chunk_3/112/32.wav|bˈa2ŋ bˈo6 mˈon xˈiɜ kˈoŋ tɹˈɛɡiə . |112
+audio_datasets/chunk_3/112/37.wav|t0ˌy2 ɗˈɔɜ bˈaː6n kˈɔɜ tˈe4 kˈaː4m ɲˈə6n bˈaː4n tˈən . |112
+audio_datasets/chunk_3/112/38.wav|bˈaː4n tˈən ɗˌaːŋ ɗˌyə6c bˈaː4w vˈe6 . |112
+audio_datasets/chunk_3/112/42.wav|ŋˈy6c lˌaː2 vˈi6 tʃˈiɜ kˈəɜt0 zˈəɜw . |112
+audio_datasets/chunk_3/112/43.wav|kˈe-ɜɲ kˈyə4 nˈaŋ lˈyə6ŋ kˌuə4 vˈu5 tʃˈu6 . |112
+audio_datasets/chunk_3/112/44.wav|ɣˈɔ6j lˌaː2 lˈuən sˈaː t0ˈim . |112
+audio_datasets/chunk_3/112/45.wav|lˈuən sˈaː t0ˈim ɲˌy mˈe-6c nˈyəɜc . |112
+audio_datasets/chunk_3/112/46.wav|ɗˌyə6c bˈəːm ɗˈəɪ2 ŋˈuə2n nˈaŋ lˈyə6ŋ vˈaː6n nˈaŋ . |112
+audio_datasets/chunk_3/112/49.wav|ɲˈɛ6 ɲˈaː2ŋ tˈəː4 zˈaː . |112
+audio_datasets/chunk_3/112/52.wav|bˈaː6n kˈyɜ hˈiɜt0 tˈəː4 ɲˌy tˈeɜ . |112
+audio_datasets/chunk_3/112/53.wav|ɗˈo2ŋ tˈəː2j t0ˈyə4ŋ t0ˈyə6ŋ . |112
+audio_datasets/chunk_3/112/54.wav|zˈɔ2ŋ nˈaŋ lˈyə6ŋ kˌuə4 vˈu5 tʃˈu6 ɗˌaːŋ tʃˈa4j vˈaː2w kˈəː tˈe4 . |112
+audio_datasets/chunk_3/112/55.wav|tˈoŋ kwˈaː ɗˈi4ɲ ɗˈə2w . |112
+audio_datasets/chunk_3/112/56.wav|xˌi bˈaː6n tˈəː4 zˈaː , hˈa5j hˈi2ɲ zˈuŋ ɲˌy5ŋ kˈaː4m sˈuɜc t0ˈiɛw kˈy6c . |112
+audio_datasets/chunk_3/112/58.wav|t0ˈiɛɜp t0ˈu6c ɗˌeɜn xˌi kˈaː4m zˈaːɜc tˈən tˈe4 ɗˌyə6c tˈaː4 lˈɔ4ŋ . |112
+audio_datasets/chunk_3/112/62.wav|vˌaː2 nˈɔɜj kˈaː4m ˈəːn vˌəːɜj t0ˈaː6w hwˈaːɜ . |112
+audio_datasets/chunk_3/112/63.wav|vˈiɛ6c tˈyə2ŋ swˈiɛn ˈaːɜp zˈu6ŋ fˈyəŋ fˈaːɜp nˈa2j . |112
+audio_datasets/chunk_3/112/64.wav|sˌɛ5 kˈɔɜ tˈe4 nˈəŋ kˈaːw xˈaː4 nˈaŋ ɗˈiɛ2w xˈiɛ4n kˈaː4m sˈuɜc kˌuə4 bˈaː6n . |112
+audio_datasets/chunk_3/112/66.wav|fˈyəŋ fˈaːɜp hˈaːj tʃˈyə5 lˈe-2ɲ nˈaː5w bˈo4 |112
+audio_datasets/chunk_3/112/73.wav|ɗˈa6t0 t0ˈaj lˈen zˈyə5 tʃˈaːɜn . |112
+audio_datasets/chunk_3/112/74.wav|bˈaː2n t0ˈaj kˌɔ2n lˈaː6j vˈaː2w hˈɔ6ŋ ɣˈaɜj . |112

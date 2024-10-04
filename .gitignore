@@ -1,0 +1,9 @@
+audio_datasets/
+Models/LibriTTS/epochs_2nd_00020.pth
+Models/LJSpeech/tensorboard
+Utils/ASR/epoch_00080.pth
+Utils/JDC/bst.t7
+Utils/PLBERT/step_108000.t7
+Utils/PLBERT/step_100000.t7
+audio_datasets.zip
+.git

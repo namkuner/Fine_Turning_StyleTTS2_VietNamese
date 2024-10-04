@@ -1,0 +1,68 @@
+dataset/Xanh24h/speaker_0/3000.wav|tʃˈuə2ŋ tʃˈaː6j tʃˌɔ ɣˈaː2 kˈi2 lˈən bˈaːw ɣˈo2m kˌaːɜc xˈu vˈy6c sˈaw . |0
+dataset/Xanh24h/speaker_0/3001.wav|ɗˈo2ŋ tˈəː2j , tʃˈuɜŋ kˈu5ŋ lˌaː2 tˈy6c fˈə4m xˌoŋ bˌi6 lˈə5n kˌaːɜc t0ˈaː6p tʃˈəɜt0 ɲˌy kˈim lwˈaː6j , twˈi4 t0ˈiɲ , kˌaːɜc vˈə6t0 kˈyɜŋ xˈaːɜc . |0
+dataset/Xanh24h/speaker_0/3002.wav|ɗˈo2ŋ tˈəː2j , mˈuə sˈaɜm tʃˈy6c t0wˈiɛɜn kˌɔ2n lwˈaː6j bˈɔ4 ɲˈu kˈə2w zˈi tʃwˈiɛ4n ɗˌeɜn kˈyə4 hˈaː2ŋ vˈə6t0 lˈiɜ , zˈuɜp t0ˈiɛɜt0 kˈiɛ6m tˈəː2j zˈaːn vˌaː2 t0ˈiɛ2n bˈaː6c . |0
+dataset/Xanh24h/speaker_0/3003.wav|kˈɔɜ hˈaːj mˈo hˈi2ɲ vˈyə2n ˈyəm ɗˌyə6c ɲˈiɛ2w ŋˈyə2j lˈyə6 tʃˈɔ6n xˌi xˈəː4j ŋˈiɛ6p lˌaː2 vˈyə2n ˈyəm kˈoɜ ɗˈi6ɲ vˌaː2 vˈyə2n ˈyəm t0ˈaː6m tˈəː2j . |0
+dataset/Xanh24h/speaker_0/3004.wav|hˈɔ6k vˈiɛn kˈɔɜ tˈe4 hˈɔ6k mˌɔ6j lˌuɜc mˌɔ6j nˈəːj , xˌoŋ kˈə2n fˌaː4j ɗˌeɜn lˈəːɜp hˈɔ6k tʃˈy6c t0ˈiɛɜp . |0
+dataset/Xanh24h/speaker_0/3005.wav|xˌi lˈyə6 tʃˈɔ6n mˈa6t0 hˈaː2ŋ kwˈaː4 bˈiɛɜw t0ˈeɜt0 , kˈə2n lˈiw ˈiɜ mˈo6t0 sˈoɜ vˈəɜn ɗˈe2 sˈaw . |0
+dataset/Xanh24h/speaker_0/3006.wav|vˈəɪ6 nˌen , ɲˌy5ŋ ŋˈyə2j kˈɔɜ tˈu ɲˈə6p ˈəː4 mˈyɜc tʃˈuŋ bˈi2ɲ xˈaːɜ kˈu5ŋ sˈa5n sˈaː2ŋ bˈɔ4 zˈaː mˈo6t0 xwˈaː4n t0ˈiɛ2n ɗˌe4 tʃˈi tʃˈaː4 tʃˌɔ kˌaːɜc lwˈaː6j tˈy6c fˈə4m tʃˈyɜc nˈaŋ hˈo5 tʃˈəː6 sˈyɜc xwˈɛ4 tʃˌɔ kˈəː tˈe4 . |0
+dataset/Xanh24h/speaker_0/3007.wav|tʃˈɔŋ tʃˈyə2ŋ hˈəː6p tʃˈɔ6n bˈe-ɜɲ zˈaːɜn mˈa6n , hˈa5j ɗˈaː4m bˈaː4w tʃwˈə4n bˌi6 nˈyəɜc tʃˈəɜm ŋˈɔn mˈiɛ6ŋ . |0
+dataset/Xanh24h/speaker_0/3008.wav|mˈa6c zˌu2 t0ˈen ɣˈɔ6j kˌuə4 nˈɔɜ lˌaː2 bˈe-ɜɲ ɲˈaː5n , ɲˌyŋ tˈy6c t0ˈeɜ xˌoŋ sˈy4 zˈu6ŋ ɲˈaː5n t0ˈyəj lˈaː2m ŋwˈiɛn lˈiɛ6w tʃˈiɜɲ . |0
+dataset/Xanh24h/speaker_0/3009.wav|zˈyəɜj zˈoɜŋ kˈə2n kˈɔɜ tˈən hˈi2ɲ kˈən ɗˈoɜj , lˈo2ŋ mˈyə6t0 , mˈaɜt0 sˈaːɜŋ , mˈu5j sˈe-6c , xˌoŋ bˌi6 tˈyəŋ t0ˈiɜc . |0
+dataset/Xanh24h/speaker_0/3010.wav|bˈe-ɜɲ ŋˈɔ6t0 sˈyɜc xwˈɛ4 vˌaː2 tʃˈeɜ bˈiɛɜn lˈe-2ɲ mˈe-6ɲ . |0
+dataset/Xanh24h/speaker_0/3011.wav|kˈiɲ zwˈe-ɲ kwˈə2n ˈaːɜw sˈɛkənd hˈand ɗˌaːŋ lˌaː2 mˈo6t0 sˈu hˈyəɜŋ ɗˌyə6c ɲˈiɛ2w ŋˈyə2j lˈyə6 tʃˈɔ6n bˌəː4j vˈoɜn ɗˈə2w t0ˈy bˈaːn ɗˈə2w xˌoŋ kwˈaːɜ lˈəːɜn , mˈa6t0 hˈaː2ŋ ɗˈaː zˈaː6ŋ vˌaː2 kˈɔɜ ɲˈiɛ2w t0ˈiɛ2m nˈaŋ fˈaːɜt0 tʃˈiɛ4n . |0
+dataset/Xanh24h/speaker_0/3012.wav|ˈəː4 nˈyəɜc t0ˈaː tˌi2 kˈɔɜ zˈəɜt0 ɲˈiɛ2w zˈoɜŋ ɣˈaː2 ɲˌyŋ ɗˌe4 tʃˈan nˈuəj ɣˈaː2 tˈaː4 vˈyə2n tˈɛw hˈyəɜŋ ˈaːn t0wˈaː2n sˈiɲ hˈɔ6k bˈa2ŋ vˈiɛ6c nˈuəj ɣˈaː2 tˈaː4w zˈyə6c tˌi2 tʃˈuɜŋ t0ˈaː lˈyə6 tʃˈɔ6n zˈoɜŋ ɣˈaː2 zˈi . |0
+dataset/Xanh24h/speaker_0/3013.wav|ŋwˈaː2j tʃˈi fˈiɜ twˈe mˈa6t0 bˈa2ŋ vˌaː2 ɲˈə6p hˈaː2ŋ , bˈaː6n kˈu5ŋ kˈə2n ɗˈə2w t0ˈy vˈaː2w kˌaːɜc tˈiɛɜt0 bˌi6 kˈə2n tˈiɛɜt0 , ɗˌe4 kˈiɲ zwˈe-ɲ kwˈə2n ˈaːɜw tʃˈɛ4 ˈɛm . |0
+dataset/Xanh24h/speaker_0/3014.wav|ˈoŋ ɗwˈaː2n tˈe-ɲ t0ˈu2ŋ , ˈəɜp mˈyə2j t0ˈaːɜm , sˈaː5 fˈɔŋ tˈe-6ɲ ˈaː , tˈi6 sˈaː5 zˈaːɜ zˈaːj tʃˈiə sˈɛ4 , vˈaː2w xwˌaː4ŋ nˈam hˈaːj ŋˈi2n mˈyə2j bˈaː ɗˌeɜn nˈam hˈaːj ŋˈi2n mˈyə2j lˈam , tʃˈyə2ŋ ɗˈaː6j hˈɔ6k kˈə2n tˈəː kˈɔɜ hˈo5 tʃˈəː6 tˈy6c hˈiɛ6n zˈy6 ˈaːɜn mˈo hˈi2ɲ lˈuəɜ t0ˈom tʃˈɔŋ ˈo ɗˈe2 bˈaː2w xˈɛɜp kˈiɜn ˈəː4 tˈi6 sˈaː5 zˈaːɜ zˈaːj . |0
+dataset/Xanh24h/speaker_0/3015.wav|ɗˌe4 tˈy6c hˈiɛ6n ɗˈiɛ2w nˈa2j , tʃˈu4 kˈyə4 hˈaː2ŋ nˌen ɗˈə2w t0ˈy vˈaː2w vˈiɛ6c t0ˈaː6w zˈaː mˈo6t0 tʃˈaːŋ wˈɛb tʃˌɔ kˈyə4 hˈaː2ŋ , tˈiɛɜt0 lˈə6p zˈaːn hˈaː2ŋ tʃˈen kˌaːɜc nˈe2n t0ˈaː4ŋ tˈyəŋ mˈaː6j ɗˈiɛ6n t0ˈy4 ɲˌy ʃˈəʊpiː , lazˈɑːdə , tˈɪk tˈɒk hwˌa6c sˈy4 zˈu6ŋ kˌaːɜc mˈaː6ŋ sˈaː5 hˈo6j ɲˌy fˈeɪsbʊk , ˈɪnstɐɡɹˌam , zˈɑːləʊ . |0
+dataset/Xanh24h/speaker_0/3016.wav|kˈɔɜ tˈe4 bˈaː6n kˈə2n bˈaɜt0 tʃˈa6j lˈen ɲˈaː2 kˈiɜɲ zˈuɜp ŋˈan kˈɔ4 zˈaː6j tʃˌɔ kˈəɪ tʃˈo2ŋ tʃˈɔŋ ɲˈaː2 kˈiɜɲ hwˌa6c ɲˈaː2 zˈyə lˈyəɜj kˌuə4 bˈaː6n . |0
+dataset/Xanh24h/speaker_0/3018.wav|nˈam hˈaːj ŋˈi2n mˈyə2j bˈoɜn , ˈe-ɲ kwˈiɛɜt0 t0ˈəm tˈɛw ɗˈuə4j nˈiɛ2m ɗˈaːm mˈe kˈiɲ zwˈe-ɲ tˈe4 tˈaːw . |0
+dataset/Xanh24h/speaker_0/3019.wav|vˈəɪ6 kˌaːɜc bˈaː6n kˈɔɜ tˈaɜc mˈaɜc , tˈy6c sˈy6 ɲˈaː2 lˈe-5ɲ ɗˈaː6w hˈɔ6 kˈim zˈa2w kˈɔɜ t0ˌəːɜj mˈyɜc nˈaː2w ? |0
+dataset/Xanh24h/speaker_0/3020.wav|tʃwˈiɛn zˈaː tʃˈuɜŋ t0ˈoj sˌɛ5 lˈiɛn hˈe6 vˌaː2 zˈaː4j ɗˈaːɜp tˈaɜc mˈaɜc . |0
+dataset/Xanh24h/speaker_0/3022.wav|ŋwˈaː2j fˈaːɜt0 tʃˈiɛ4n kˈiɲ t0ˈeɜ , zˈaː ɗˈi2ɲ ˈoŋ fˈu2ŋ swˈən hwˈaː6t0 lˈuən ɣˈə2n mˈə5w tʃˈɔŋ vˈiɛ6c tˈy6c hˈiɛ6n tʃˈu4 tʃˈyəŋ kˌuə4 ɗˈaː4ŋ , tʃˈiɜɲ sˈe-ɜc , fˈaːɜp lwˈə6t0 kˌuə4 ɲˈaː2 nˈyəɜc vˌaː2 kˌaːɜc kwˈi ɗˈi6ɲ kˌuə4 ɗˈiə6 fˈyəŋ . |0
+dataset/Xanh24h/speaker_0/3023.wav|t0wˈi ɲˈiɛn , tʃˈɔŋ tˈi6 tʃˈyə2ŋ kˈe-6ɲ tʃˈe-ɲ , ɗˌe4 tˈe-2ɲ kˈoŋ bˈaː6n kˈə2n fˌaː4j kˈɔɜ bˈiɜ kwˈiɛɜt0 kˈiɲ zwˈe-ɲ zˈiɛŋ kˌuə4 mˈi2ɲ . |0
+dataset/Xanh24h/speaker_0/3024.wav|kˈo6ŋ vˌəːɜj t0ˈy zwˈi tʃˈiɛɜn lˈyə6c vˌaː2 sˈy6 tʃˈaː4j ŋˈiɛ6m , ˈe-ɲ ɗˌaː5 tˈe-2ɲ kˈoŋ vˌaː2 ɗˌyə6c ɲˈiɛ2w xˈe-ɜc hˈaː2ŋ ɗˈɔɜn ɲˈə6n , vˌaː2 kˈɔɜ ɗˌyə6c tˈe-2ɲ kˈoŋ sˈyɜŋ ɗˈaːɜŋ . |0
+dataset/Xanh24h/speaker_0/3025.wav|tˈyɜ hˈaːj , ɲˈu kˈə2w t0ˈiɛw tˈu6 sˈiɛn kwˈɛ nˈyəɜŋ zˈəɜt0 lˈəːɜn , ɗˈa6c bˈiɛ6t0 lˌaː2 tʃˈɔŋ kˌaːɜc xˈu vˈy6c ɗˈoŋ zˈən kˈy ɣˈə2n tʃˈyə2ŋ hˈɔ6k , xˈu kˈoŋ ŋˈiɛ6p . |0
+dataset/Xanh24h/speaker_0/3026.wav|bˈaː6n kˈɔɜ tˈe4 bˈaːɜn hwˈaː xˈo tʃˈy6c t0ˈiɛɜp tʃˌɔ xˈe-ɜc hˈaː2ŋ hwˌa6c bˈaːɜn bˈuən tʃˌɔ kˌaːɜc ɲˈaː2 bˈaːɜn lˈɛ4 . |0
+dataset/Xanh24h/speaker_0/3027.wav|kˈɔɜ ɲˌy vˈəɪ6 tˌi2 tʃˈɛw tʃˈɛw mˈəːɜj hˈaː6n tʃˈeɜ ɗˌyə6c bˈe6ɲ t0ˈə6t0 vˌaː2 sˈiɲ tʃˈyə4ŋ xwˈɛ4 mˈe-6ɲ . |0
+dataset/Xanh24h/speaker_0/3028.wav|nˌeɜw lˌaː2 zˈɔ2ŋ kˈaːɜ ɲˈə6p xˈə4w tˌi2 zˈaːɜ tˈe-2ɲ zˈəɜt0 ɗˈaɜt0 ɗˈɔ4 , xˌoŋ fˌaː4j ˈaːj kˈu5ŋ kˈɔɜ ɗˈiɛ2w kˈiɛ6n mˈuə . |0
+dataset/Xanh24h/speaker_0/3029.wav|lˈaɜp ɗˈa6t0 hˈe6 tˈoɜŋ ɗˈiɛ6n , nˈyəɜc , tˈoɜŋ zˈɔɜ , twˈaːɜt0 nˈyəɜc . |0
+dataset/Xanh24h/speaker_0/3032.wav|bˈaː6n kˈɔɜ tˈe4 kˈiɲ zwˈe-ɲ kˌaːɜc sˈaː4n fˈə4m mˈəːɜj zˈaː mˈaɜt0 , sˈaː4n fˈə4m lˈiɛn kwˈaːn ɗˌeɜn kˌaːɜc zˈy6 kˈiɛ6n nˈo4j bˈə6t0 . |0
+dataset/Xanh24h/speaker_0/3033.wav|vˌəːɜj lˈyə6ŋ ŋˈyə2j zˈu2ŋ ɗˈoŋ ɗˈaː4w vˌaː2 ɗˈaː zˈaː6ŋ , tˈɪk tˈɒk lˌaː2 mˈo6t0 kˈeɲ t0ˈiɛɜp tˈi6 hˈiɛ6w kwˈaː4 ɗˌe4 t0ˈiɛɜp kˈə6n vˌəːɜj ɗˈoŋ ɗˈaː4w xˈe-ɜc hˈaː2ŋ t0ˈiɛ2m nˈaŋ . |0
+dataset/Xanh24h/speaker_0/3035.wav|ɗˈaː2w tˈeɜ kˈɔɜ tˈe4 kˈɔɜ zˈaːɜŋ tʃˈy6c , zˈaːɜŋ hwˈe-2ɲ , zˈaːɜŋ t0ˈaːm ɗˈaː , zˈaːɜŋ hˈaː6c mˈaːj . |0
+dataset/Xanh24h/speaker_0/3036.wav|tˈɛw t0ˈəː2 ʒˈɔŋˈaːn ˈɪnbəʊ kˌuə4 hˈaː2n kˈuəɜc tʃˌɔ bˈiɛɜt0 , tʃˈɔŋ sˈoɜ kˌaːɜc mˈa6t0 hˈaː2ŋ sˈaː sˈi4 mˌaː2 tʃˈiɛ2w t0ˈiɛn mˈuə , tˈiɛɜt0 bˌi6 ɗˈiɛ6n t0ˈy4 ɗˈyɜŋ ɗˈə2w vˌaː2 tʃˈiɛɜm t0ˌəːɜj bˈoɜn mˈyəj tʃˈiɜn fˈə2n tʃˈam lˈyə6ŋ t0ˈiɛw tˈu6 hˈaː2ŋ sˈaː sˈi4 kˌuə4 kˈim ʒˈɔŋˈun . |0
+dataset/Xanh24h/speaker_0/3037.wav|tˈəː2j zˈaːn sˈaw ɗˈɔɜ , ˈe-ɲ lˈaː2m tˈem ɲˈiɛ2w ŋˈe2 xˈaːɜc ɲˈaw ɲˌy fˈu6c vˈu6 , lˈe5 t0ˈən , bˈoɜk vˈaːɜc ɗˌe4 lˈəɪɜ vˈoɜn mˈuə tˈem hˈaː2ŋ . |0
+dataset/Xanh24h/speaker_0/3038.wav|tˈəː2j ɗˈiɛ4m tˈu hwˈe-6c lˌaː2 xˌi tʃˈaː6c tˈyɜ hˈaːj vˈyə2 ɲˈuɜ lˈen . |0
+dataset/Xanh24h/speaker_0/3039.wav|bˈaː6n kˈɔɜ tˈe4 bˈaːɜn ɗˈo2 tʃˈaːŋ tʃˈiɜ t0ˈeɜt0 ŋwˈiɛn ɗˈaːɜn hˈandmeɪd tʃˈy6c t0ˈiɛɜp tʃˌɔ ŋˈyə2j t0ˈiɛw zˈu2ŋ hwˌa6c tˈoŋ kwˈaː kˌaːɜc ɲˈaː2 bˈaːɜn lˈɛ4 . |0
+dataset/Xanh24h/speaker_0/3041.wav|tʃˈɔŋ t0ˈi2ɲ hˈi2ɲ tˈi6 tʃˈyə2ŋ hˈiɛ6n nˈaj , tˈy6c fˈə4m vˌə5n lˌaː2 ŋˈe-2ɲ hˈaː2ŋ ɗˈyɜŋ ɗˈə2w vˈe2 lˈəː6j ɲwˈə6n tʃˌɔ ɲˌy5ŋ ɲˈaː2 ɗˈə2w t0ˈy tˈoŋ tˈaːɜj . |0
+dataset/Xanh24h/speaker_0/3042.wav|tˈyɜc ˈan kˌuə4 tʃˈuɜŋ bˈaːw ɣˈo2m tˈɔɜk vˌaː2 kˌaːɜc lwˈaː6j zˈaw . |0
+dataset/Xanh24h/speaker_0/3043.wav|lwˈaː2j tʃˈɛw tʃˈɛw kˈɔɜ kˈiɜc tˈyəɜc xˈaːɜ xˈiɛm t0ˈoɜn , vˌəːɜj tʃˈiɛ2w zˈaː2j tˈən ɗˌeɜn ɗˈə2w lˌaː2 bˈoɜn mˈyəj hˈaːj ɗˌeɜn bˈoɜn mˈyəj t0ˈaːɜm sˈaŋt0ˈimˈɛɜt0 , tʃˈɔŋ xˌi tʃˈɔ6ŋ lˈyə6ŋ kˌuə4 tʃˈuɜŋ tʃˈi4 t0ˌy2 xˌoŋ fˈəɪ4 bˈa4j ɗˌeɜn hˈaːj kˈilˈoɣˈaːm , lˈoŋ tʃˈen tˈən kˈɔɜ mˈa2w nˈə1w vˌaː2 zˈyəɜj bˈu6ŋ kˈɔɜ mˈa2w tʃˈaɜŋ hwˌa6c vˈaː2ŋ ɲˈaː6t0 . |0
+dataset/Xanh24h/speaker_0/3044.wav|kˌaːɜc bˈyəɜc tˈy6c hˈiɛ6n mˈo6t0 . ŋˈiɛn kˈiɜw tˈi6 tʃˈyə2ŋ . |0
+dataset/Xanh24h/speaker_0/3046.wav|ɗˈiɛ2w kwˈaːn tʃˈɔ6ŋ lˌaː2 fˌaː4j tʃˈɔ6n kˈaːɜ kˈɔɜ tˈi6t0 sˈan tʃˈaɜc . |0
+dataset/Xanh24h/speaker_0/3047.wav|kˌaːɜc mˈa6t0 hˈaː2ŋ ˈəː4 ɗˈəɪ ɗˌyə6c tʃˈɔ6n lˈɔ6k bˌəː4j ɲˌy5ŋ ŋˈyə2j kˈiɲ zwˈe-ɲ kˈɔɜ kˈiɲ ŋˈiɛ6m , ɗˈaː4m bˈaː4w tʃˈəɜt0 lˈyə6ŋ vˌaː2 ɗˈaː zˈaː6ŋ vˈe2 mˈə5w mˈaː5 . |0
+dataset/Xanh24h/speaker_0/3048.wav|t0ˈiɛɜp tˈi6 kwˈaː ˈiːmeɪl lˌaː2 mˈo6t0 kˈe-ɜc hˈiɛ6w kwˈaː4 ɗˌe4 t0ˈiɛɜp kˈə6n xˈe-ɜc hˈaː2ŋ ɗˌaː5 ɗˈaŋ kˈiɜ ɲˈə6n tˈoŋ t0ˈin t0ˌy2 bˈaː6n . |0
+dataset/Xanh24h/speaker_0/3049.wav|zˈaː ɗˈi2ɲ ˈe-ɲ ɗˌaː5 tˈiɛɜt0 lˈə6p mˈo6t0 tʃˈaːŋ tʃˈaː6j nˈuəj tˈɔ4 tˈyəŋ fˈə4m . |0
+dataset/Xanh24h/speaker_0/3050.wav|vˈe2 sˈaw , mˈɔɜn ˈan ɗˌyə6c mˌɔ6j ŋˈyə2j xˈɛn ŋˈɔn , ɲˈiɛ2w ŋˈyə2j ɲˈə6n sˈɛɜt0 fˈu2 hˈəː6p vˌəːɜj sˈu hˈyəɜŋ tˈy6c fˈə4m zˈyə5 mˈuə2 zˈi6c . |0
+dataset/Xanh24h/speaker_0/3051.wav|tˈiɛɜt0 kˈeɜ vˌaː2 tʃˈaːŋ tʃˈiɜ nˈo6j tˈəɜt0 tʃˌɔ kˈyə4 hˈaː2ŋ . |0
+dataset/Xanh24h/speaker_0/3052.wav|hˈɔ6 ˈyə tʃˈuə6ŋ ɲˌy5ŋ lwˈaː6j hˈaː4j sˈaː4n nˈaː2w vˌaː2 mˈyɜc zˈaːɜ mˌaː2 hˈɔ6 sˈa5n lˈɔ2ŋ tʃˈi tʃˈaː4 lˌaː2 bˈaːw ɲˈiɛw . |0
+dataset/Xanh24h/speaker_0/3053.wav|tˈi6t0 ɣˈaː2 kˈi2 lˈən kˈɔɜ zˈaːɜ tʃˈi6 kˈaːw , ɗˌyə6c ɲˈiɛ2w ŋˈyə2j ˈyə tʃˈuə6ŋ . |0
+dataset/Xanh24h/speaker_0/3054.wav|vˌaː2 vˈu6 tˈu t0ˌy2 tˈaːɜŋ bˈa4j ɗˌeɜn tˈaːɜŋ tʃˈiɜn . |0
+dataset/Xanh24h/speaker_0/3055.wav|ɗˈəɪ kˈu5ŋ lˌaː2 t0ˈiɛ2n ɗˈe2 tˈuɜc ɗˈəɪ4 ɲˈiɛ2w ŋˈyə2j tʃˈɔ6n , ɲˌy lˌaː2 mˈo6t0 kˈoŋ vˈiɛ6c bˈaːɜn hˈaː2ŋ ŋˈaɜn hˈaː6n ɗˌe4 kˈiɛɜm tˈem tˈu ɲˈə6p . |0
+dataset/Xanh24h/speaker_0/3056.wav|bˈaː6n nˌen lˈyə6 tʃˈɔ6n ŋwˈiɛn lˈiɛ6w tʃˈəɜt0 lˈyə6ŋ , ɗˈaː zˈaː6ŋ , ɗˈaː4m bˈaː4w vˈe6 sˈiɲ ˈaːn t0wˈaː2n tˈy6c fˈə4m ɗˌe4 t0ˈaː6w zˈaː ɲˌy5ŋ sˈaː4n fˈə4m tˈəːm ŋˈɔn , hˈəɜp zˈə5n . |0
+dataset/Xanh24h/speaker_0/3057.wav|bˈen kˈe-6ɲ ɗˈɔɜ , kˌɔ2n t0ˈi2m hˈiɛ4w tˈem ɲˌy5ŋ kˈiɛɜn tˈyɜc vˌaː2 kˈi5 twˈə6t0 tʃˈan nˈuəj tʃˈen sˈe-ɜc bˈaːɜw tˌevˈe . |0
+dataset/Xanh24h/speaker_0/3058.wav|ɗˌeɜn vˌəːɜj vˈɪdɪəʊ nˈa2j , t0ˈaː2j tʃˈiɜɲ kˈiɲ zwˈe-ɲ sˈin ɣˈy4j ɗˌeɜn kˌaːɜc bˈaː6n kˈə1w tʃwˈiɛ6n vˈe2 tʃˈaː2ŋ tʃˈaːj bˈɔ4 ŋˈe2 kˈi5 sˈy kˈiɛɜm t0ˈiɛ2n t0ˈi4 mˌo5j nˈam ɲˈəː2 ŋˈe2 nˈuəj kˈaːɜ kˈe-4ɲ ˈiɜt0 vˈoɜn . |0
+dataset/Xanh24h/speaker_0/3059.wav|ɲˈiɛ2w xˌi sˈyɜc xwˈɛ4 kˈiɛ6t0 kwˈe6 t0ˌəːɜj mˈyɜc ˈe-ɲ fˌaː4j ɲˈə6p vˈiɛ6n , ɗˈiɛ2w tʃˈi6 zˈɔ swˈi ɲˈyə6c , lˈaːw lˈy6c ɗˌeɜn ɗˈo6 tˈo4 hwˈiɛɜt0 . |0
+dataset/Xanh24h/speaker_0/3060.wav|kˈiɲ zwˈe-ɲ ɗˈo2ŋ hˈo2 kˈu5 lˌaː2 mˈo hˈi2ɲ kˈiɲ zwˈe-ɲ ɗˌyə6c ɲˈiɛ2w ŋˈyə2j kwˈaːn t0ˈəm , ɗˈa6c bˈiɛ6t0 lˌaː2 ɲˌy5ŋ ŋˈyə2j ˈiɛw tˈiɜc sˈiw t0ˈə2m ɗˈo2ŋ hˈo2 . |0
+dataset/Xanh24h/speaker_0/3061.wav|lˈyə6ŋ t0ˈom nˈuəj tʃˈɔŋ zˈuə6ŋ lˈuəɜ kˈə2n ɗˌyə6c kˈiɛ4m swˈaːɜt0 tʃˈa6t0 tʃˈɛ5 ɗˌe4 tʃˈe-ɜɲ t0ˈi2ɲ tʃˈaː6ŋ t0ˈom ˈan lˈuəɜ . |0
+dataset/Xanh24h/speaker_0/3062.wav|zˈɔ ɗˈɔɜ , lˈəː6j ɲwˈə6n t0ˌy2 kˈiɲ zwˈe-ɲ kˈə1w ɗˈoɜj , tʃˈe-ɲ ˈe-4ɲ t0ˈeɜt0 tˈyə2ŋ zˈəɜt0 kˈaːw . |0
+dataset/Xanh24h/speaker_0/3063.wav|zˈi6c vˈu6 nˈa2j ɗˈaːɜp ˈyɜŋ ɲˈu kˈə2w kˌuə4 kˌaːɜc zwˈe-ɲ ŋˈiɛ6p , hˈo6 kˈiɲ zwˈe-ɲ mˈuəɜn bˈa2j mˈəm kˈuɜŋ tˈə2n t0ˈaː2j tʃˈuɜ ɗˈaːɜw , tʃwˈə4n , fˈɔŋ t0ˈu6c mˌaː2 xˌoŋ kˈə2n t0ˈoɜn tˈəː2j zˈaːn , kˈoŋ sˈyɜc . |0
+dataset/Xanh24h/speaker_0/3064.wav|ŋˈiɛn kˈiɜw tˈi6 tʃˈyə2ŋ ɗˌe4 t0ˈi2m hˈiɛ4w sˈu hˈyəɜŋ vˌaː2 ɲˈu kˈə2w kˌuə4 fˈu6 hwˈiɲ hˈiɛ6n nˈaj . |0
+dataset/Xanh24h/speaker_0/3065.wav|vˌaː2 mˈo6t0 sˈoɜ xˌoŋ ŋˈaː6j tʃˈi t0ˈiɛ2n ɗˌe4 kˈɔɜ ɗˌyə6c ɗˈa6c kwˈiɛ2n nˈa2j . |0
+dataset/Xanh24h/speaker_0/3066.wav|mˈo hˈi2ɲ nˈuəj ɣˈaː2 tˈaː4w zˈyə6c ɗˈaɜt0 ɣˈəɜp bˈaː ɣˈaː2 tˈyə2ŋ vˌə5n tʃˈaɜj hˈaː2ŋ . |0
+dataset/Xanh24h/speaker_0/3067.wav|ɗˈoɜj vˌəːɜj ɲˌy5ŋ ŋˈyə2j tʃˈɔ6n mˈuə fˈu6 kˈiɛ6n tʃˌɔ tʃˈiɛɜc ɗˈiɛ6n twˈaː6j ˈiɛw kwˈiɜ kˌuə4 mˈi2ɲ , hˈɔ6 tˈyə2ŋ kˈɔɜ xˈaː4 nˈaŋ , lˈyə6 tʃˈɔ6n sˈaː4n fˈə4m tˈɛw kˌaːɜc t0ˈiɛw tʃˈiɜ nˈa2j . |0
+dataset/Xanh24h/speaker_0/3068.wav|ɗˈiɛ2w nˈa2j sˌɛ5 t0ˈaː6w zˈaː mˈo6t0 ŋˈuə2n tˈu ɲˈə6p ˈo4n ɗˈi6ɲ vˌaː2 ɗˈaː zˈaː6ŋ tʃˌɔ kˈyə4 hˈaː2ŋ . |0
+dataset/Xanh24h/speaker_0/3069.wav|nˈam hˈaːj ŋˈi2n xˌoŋ tʃˈam mˈyə2j t0ˈaːɜm , ˈe-ɲ kwˈiɛɜt0 ɗˈi6ɲ vˈaj vˈoɜn ŋˈən hˈaː2ŋ ɗˌe4 ɗˈə2w t0ˈy sˈəɪ zˈy6ŋ hˈe6 tˈoɜŋ bˈe4 nˈuəj t0ˈom hˈu2m bˈoŋ . |0
+dataset/Xanh24h/speaker_0/3070.wav|xˌi tˈyəŋ hˈiɛ6w ɗˌaː5 kˈɔɜ tʃˈo5 ɗˈyɜŋ tʃˈen tˈi6 tʃˈyə2ŋ , tʃˈu4 ʃˈɒp kˈɔɜ tˈe4 bˈaɜt0 ɗˈə2w fˈaːɜt0 tʃˈiɛ4n tˈem ɗˈaː zˈaː6ŋ sˈaː4n fˈə4m . |0
+dataset/Xanh24h/speaker_0/3071.wav|xˌi t0ˈyəɜj bˈa2ŋ t0ˈaj , hˈa5j t0ˈyəɜj vˈaː2w vˈu2ŋ zˈe5 ɗˌe4 nˈyəɜc t0ˌy2 t0ˌy2 ŋˈə2m sˈuəɜŋ ɗˈəɜt0 . |0
+dataset/Xanh24h/speaker_0/3072.wav|kˈɔɜ tˈe4 nˈɔɜj , kˈiɲ zwˈe-ɲ zˈi6c vˈu6 vˈə6n t0ˈaː4j tʃˈɛ4 ˈɛm kˈɔɜ tˈi6 tʃˈyə2ŋ zˈo6ŋ ɲˌyŋ kˈu5ŋ kˈɔɜ zˈəɜt0 ɲˈiɛ2w kˈe-6ɲ tʃˈe-ɲ . |0
+dataset/Xanh24h/speaker_0/3074.wav|tˈəː2j zˈaːn t0ˌy2 xˌoŋ ɗˌeɜn bˈaː mˈyəj lˈam ŋˈa2j . |0
+dataset/Xanh24h/speaker_0/3075.wav|tʃˈuɜŋ zˈuɜp tʃˈɛ4 fˈaːɜt0 tʃˈiɛ4n vˈe2 mˈa6t0 tˈe4 tʃˈəɜt0 , tʃˈiɜ t0wˈe6 , kˈaː4m sˈuɜc vˌaː2 kˈi5 nˈaŋ sˈaː5 hˈo6j , zˈɔ ɗˈɔɜ ɗˈo2 tʃˈəːj tʃˈəː4 tˈe-2ɲ mˈo6t0 mˈa6t0 hˈaː2ŋ tˈiɛɜt0 ˈiɛɜw xˌoŋ tˈe4 tˈiɛɜw tʃˈɔŋ kˈuə6c sˈoɜŋ kˌuə4 tʃˈɛ4 ˈɛm . |0
