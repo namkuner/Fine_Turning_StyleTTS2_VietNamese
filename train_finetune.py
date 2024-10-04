@@ -262,7 +262,6 @@ def main(config_path):
         model.mpd.train()
 
         for i, batch in enumerate(train_dataloader):
-            print(i)
             waves = batch[0]
             batch = [b.to(device) for b in batch[1:]]
             texts, input_lengths, ref_texts, ref_lengths, mels, mel_input_length, ref_mels = batch
@@ -547,7 +546,6 @@ def main(config_path):
                         optimizer.step('wd')
 
             iters = iters + 1
-            print("log_interval",log_interval)
             if (i + 1) % log_interval == 0:
                 logger.info(
                     'Epoch [%d/%d], Step [%d/%d], Loss: %.5f, Disc Loss: %.5f, Dur Loss: %.5f, CE Loss: %.5f, Norm Loss: %.5f, F0 Loss: %.5f, LM Loss: %.5f, Gen Loss: %.5f, Sty Loss: %.5f, Diff Loss: %.5f, DiscLM Loss: %.5f, GenLM Loss: %.5f, SLoss: %.5f, S2S Loss: %.5f, Mono Loss: %.5f'

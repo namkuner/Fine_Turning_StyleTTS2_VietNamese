@@ -722,7 +722,7 @@ def load_checkpoint(model, optimizer, path, load_only_params=True, ignore_module
     state = torch.load(path, map_location='cpu')
     params = state['net']
     if if_pretrain:
-        load_bert = torch.load("Utils/PLBERT/step_100000.t7", map_location='cpu')
+        load_bert = torch.load("Utils/PLBERT/step_108000.t7", map_location='cpu')
         params["bert"].update(load_bert["net"])
         print("params",params["bert"].keys())
     for key in model:
