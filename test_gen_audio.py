@@ -293,13 +293,13 @@ def STinference(text, ref_s, ref_text, alpha = 0.3, beta = 0.7, diffusion_steps=
     return out.squeeze().cpu().numpy()[..., :-50] # weird pulse at the end of the model, need to be fixed later
 
 if __name__ == "__main__":
-    text = ''' X i n  c h a o StyleTTS 2 is a text to speech model that leverages style diffusion and adversarial training with large speech language models to achieve human level text to speech synthesis. '''  # @param {type:"string"}
+    text = ''' xin chào việt nam, tôi mới được huấn luyện xong . '''  # @param {type:"string"}
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
     # load phonemizer
     import phonemizer
 
-    global_phonemizer = phonemizer.backend.EspeakBackend(language='en-us', preserve_punctuation=True, with_stress=True)
+    global_phonemizer = phonemizer.backend.EspeakBackend(language='vi', preserve_punctuation=True, with_stress=True)
 
     config = yaml.safe_load(open("Models/LibriTTS/config.yml"))
 
@@ -323,7 +323,7 @@ if __name__ == "__main__":
     _ = [model[key].eval() for key in model]
     _ = [model[key].to(device) for key in model]
 
-    params_whole = torch.load("Models/LibriTTS/epochs_2nd_00020.pth", map_location='cpu')
+    params_whole = torch.load("Models/LJSpeech/epoch_2nd_00001.pth", map_location='cpu')
     params = params_whole['net']
 
     for key in model:
@@ -354,7 +354,7 @@ if __name__ == "__main__":
         clamp=False
     )
     reference_dicts = {}
-    reference_dicts['696_92939'] = "Demo/reference_audio/696_92939_000016_000006.wav"
+    reference_dicts['696_92939'] = "Demo/reference_audio/6.wav"
     reference_dicts['1789_142896'] = "Demo/reference_audio/1789_142896_000022_000005.wav"
 
     noise = torch.randn(1, 1, 256).to(device)

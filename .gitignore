@@ -7,3 +7,4 @@ Utils/PLBERT/step_108000.t7
 Utils/PLBERT/step_100000.t7
 audio_datasets.zip
 .git
+Models/LJSpeech/epoch_2nd_00001.pth
