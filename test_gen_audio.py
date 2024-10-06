@@ -66,7 +66,9 @@ def compute_style(path):
 def inference(text, ref_s, alpha = 0.3, beta = 0.7, diffusion_steps=5, embedding_scale=1):
     text = text.strip()
     ps = global_phonemizer.phonemize([text])
+
     ps = word_tokenize(ps[0])
+    print(ps)
     ps = ' '.join(ps)
     tokens = textclenaer(ps)
     tokens.insert(0, 0)
@@ -293,7 +295,7 @@ def STinference(text, ref_s, ref_text, alpha = 0.3, beta = 0.7, diffusion_steps=
     return out.squeeze().cpu().numpy()[..., :-50] # weird pulse at the end of the model, need to be fixed later
 
 if __name__ == "__main__":
-    text = ''' xin chào việt nam, tôi mới được huấn luyện xong . '''  # @param {type:"string"}
+    text = ''' xin chào hello kitty .  '''  # @param {type:"string"}
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
     # load phonemizer
@@ -323,7 +325,7 @@ if __name__ == "__main__":
     _ = [model[key].eval() for key in model]
     _ = [model[key].to(device) for key in model]
 
-    params_whole = torch.load("Models/LJSpeech/epoch_2nd_00001.pth", map_location='cpu')
+    params_whole = torch.load("Models/LJSpeech/epoch_2nd_00009.pth", map_location='cpu')
     params = params_whole['net']
 
     for key in model:
@@ -354,7 +356,7 @@ if __name__ == "__main__":
         clamp=False
     )
     reference_dicts = {}
-    reference_dicts['696_92939'] = "Demo/reference_audio/6.wav"
+    reference_dicts['696_92939'] = "Demo/reference_audio/8.wav"
     reference_dicts['1789_142896'] = "Demo/reference_audio/1789_142896_000022_000005.wav"
 
     noise = torch.randn(1, 1, 256).to(device)
