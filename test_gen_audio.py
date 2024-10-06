@@ -23,13 +23,27 @@ import torch.nn.functional as F
 import torchaudio
 import librosa
 from nltk.tokenize import word_tokenize
-import nltk
-nltk.download('punkt_tab')
+from nltk.tokenize import TweetTokenizer
+
 from models import *
 from utils import *
 from text_utils import TextCleaner
 textclenaer = TextCleaner()
+word_tokenize = TweetTokenizer().tokenize
+def replace_t(word):
+    x = "t̪"
+    return word.replace(x, 't0')
 
+def replace_special_char(word):
+    special_chars_to_ignore = "̪̃/^"
+    for char in special_chars_to_ignore:
+        word= word.replace(char, '')
+    return word
+def clean_word(input_string):
+    special_chars = "{<[)}>(]"
+    for char in special_chars:
+        input_string = input_string.replace(char, '"')
+    return input_string
 
 to_mel = torchaudio.transforms.MelSpectrogram(
     n_mels=80, n_fft=2048, win_length=1200, hop_length=300)
@@ -64,10 +78,15 @@ def compute_style(path):
 
 
 def inference(text, ref_s, alpha = 0.3, beta = 0.7, diffusion_steps=5, embedding_scale=1):
-    text = text.strip()
-    ps = global_phonemizer.phonemize([text])
+    text = word_tokenize(text)
+    text = [clean_word(word) for word in text]
 
-    ps = word_tokenize(ps[0])
+    text = ' '.join(text)
+
+    ps = global_phonemizer.phonemize([text])
+    ps = [replace_t(p) for p in ps]
+
+    ps = [replace_special_char(p) for p in ps]
     print(ps)
     ps = ' '.join(ps)
     tokens = textclenaer(ps)
@@ -295,13 +314,13 @@ def STinference(text, ref_s, ref_text, alpha = 0.3, beta = 0.7, diffusion_steps=
     return out.squeeze().cpu().numpy()[..., :-50] # weird pulse at the end of the model, need to be fixed later
 
 if __name__ == "__main__":
-    text = ''' xin chào hello kitty .  '''  # @param {type:"string"}
+    text = ''' được phát triển lên từ các trước đác đạo đức học của Kan. Quay lại nội dung chính.  '''  # @param {type:"string"}
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
     # load phonemizer
     import phonemizer
 
-    global_phonemizer = phonemizer.backend.EspeakBackend(language='vi', preserve_punctuation=True, with_stress=True)
+    global_phonemizer = phonemizer.backend.EspeakBackend(language='vi', preserve_punctuation=True, with_stress=True, language_switch='remove-flags')
 
     config = yaml.safe_load(open("Models/LibriTTS/config.yml"))
 
