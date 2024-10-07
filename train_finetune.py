@@ -553,7 +553,7 @@ def main(config_path):
                         % (epoch + 1, epochs, i + 1, len(train_list) // batch_size, running_loss / log_interval, d_loss,
                            loss_dur, loss_ce, loss_norm_rec, loss_F0_rec, loss_lm, loss_gen_all, loss_sty, loss_diff,
                            d_loss_slm, loss_gen_lm, s_loss, loss_s2s, loss_mono))
-                    print("log_interval", i)
+                    print("log_interval", i+1)
                     writer.add_scalar('train/mel_loss', running_loss / log_interval, iters)
                     writer.add_scalar('train/gen_loss', loss_gen_all, iters)
                     writer.add_scalar('train/d_loss', d_loss, iters)
@@ -699,7 +699,7 @@ def main(config_path):
                     'optimizer': optimizer.state_dict(),
                     'iters': iters,
                     'val_loss': loss_test / iters_test,
-                    'epoch': epoch,
+                    'epoch': epoch + 1,
                 }
                 save_path = osp.join(log_dir, 'epoch_2nd_%05d.pth' % epoch)
                 torch.save(state, save_path)
@@ -719,7 +719,7 @@ def main(config_path):
                 'optimizer': optimizer.state_dict(),
                 'iters': iters,
                 'val_loss': loss_test / iters_test,
-                'epoch': epoch,
+                'epoch': epoch +1 ,
             }
             save_path = osp.join(log_dir, 'epoch_2nd_%05d.pth' % epoch)
             torch.save(state, save_path)
