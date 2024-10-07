@@ -314,7 +314,7 @@ def STinference(text, ref_s, ref_text, alpha = 0.3, beta = 0.7, diffusion_steps=
     return out.squeeze().cpu().numpy()[..., :-50] # weird pulse at the end of the model, need to be fixed later
 
 if __name__ == "__main__":
-    text = ''' Ðời người chỉ sống có một lần. Phải sống sao cho khỏi xót xa, ân hận, vì những năm tháng đã sống hoài, sống phí, để khỏi hổ thẹn, vì những việc làm ti tiện, đớn hèn , bị mọi người khinh bỉ.'''  # @param {type:"string"}
+    text = ''' Ðời người chỉ sống có một lần. Phải sống sao cho khỏi xót xa, ân hận, vì những năm tháng đã sống hoài, sống phí, để khỏi hổ thẹn, vì những việc làm ti tiện, đớn hèn, bị mọi người khinh bỉ.'''  # @param {type:"string"}
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
     # load phonemizer
@@ -344,7 +344,7 @@ if __name__ == "__main__":
     _ = [model[key].eval() for key in model]
     _ = [model[key].to(device) for key in model]
 
-    params_whole = torch.load("Models/LJSpeech/epoch_2nd_00020.pth", map_location='cpu')
+    params_whole = torch.load("Models/LJSpeech/epoch_2nd_00017.pth", map_location='cpu')
     params = params_whole['net']
 
     for key in model:
@@ -389,11 +389,11 @@ if __name__ == "__main__":
 
         import IPython.display as ipd
         audio = ipd.Audio(wav, rate=24000, normalize=False)
-        with open("output.wav", "wb") as f:
+        with open("output_audio_22.wav", "wb") as f:
             f.write(audio.data)
         from playsound import playsound
 
-        playsound("output.wav")
+        playsound("output_audio_22.wav")
         # print(k + ' Synthesized:')
         # display()
         # print('Reference:')
